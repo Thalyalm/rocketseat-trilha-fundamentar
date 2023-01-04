@@ -1170,17 +1170,137 @@ O módulo traz conceitos básicos de dados no intuito de instruir aqueles que qu
 
 A coletânea de aulas explana conceitos como objetos, classes, encapsulamento, programação estruturada e orientada a objetos, herança, polimorfismo e abstração.
 
+- [ ] Programação Orientada a Objetos
+
+    - [ ] Introdução
+
+    - [ ] Qual o uso da Orientação a Objetos no mercado de trabalho?
+
+    - [ ] Onde e quando utilizar a Orientação a Objetos?
+
+    - [ ] Por que conceitos são importantes?
+
+    - [ ] Objetos
+
+    - [ ] Objetos abstratos vs objetos do mundo real
+
+    - [ ] Classes
+
+    - [ ] Classes em JavaScript
+
+    - [ ] Encapsulamento
+
+    - [ ] Encapsulamento no código JavaScript
+
+    - [ ] Programação Estruturada vs Orientada a Objetos
+
+    - [ ] Herança
+
+    - [ ] Polimorfismo
+
+    - [ ] Polimorfismo com Javascript
+
+    - [ ] Abstração
+
+    - [ ] Abstração com código Javascript
+
+    - [ ] Conclusão
+
 ---
 
 ### 22. Programação Funcional
 
 A unidade de aprendizagem destrincha conceitos da programação funcional, como programação imperativas e declarativas, imutabilidade, stateless, funções independentes e puras, first-class, higher-order e composição.
 
+- [ ] Programação Funcional
+
+    - [ ] Objetivo
+
+    - [ ] Por que JavaScript?
+
+    - [ ] O que preciso para acompanhar o curso?
+
+    - [ ] Por que programação funcional?
+
+    - [ ] O que é programação funcional?
+
+    - [ ] Princípios
+
+    - [ ] Programação Imperativa vs Declarativa
+
+    - [ ] Imutabilidade
+
+    - [ ] Stateless
+
+    - [ ] Características das Funções
+
+    - [ ] Funções independentes
+
+    - [ ] Funções Puras
+
+    - [ ] First-class
+
+    - [ ] Higher-order
+
+    - [ ] Composição de funções
+
+    - [ ] Conclusão
+
 ---
 
 ### 23. Guia Estelar de GIT
 
 As aulas revelam a importância do Git, tipos de controle de versões, configurações, CheatSheet, estados (modificado, preparado e commited), git log, hash values e head.
+
+- [ ] Introdução
+
+    - [ ] Abertura
+
+    - [ ] Por que este curso
+
+- [ ] O que é Git
+
+    - [ ] Controle de Versão
+    
+    - [ ] Tipos de controles de versão
+
+    - [ ] O que é o git
+
+- [ ] Instalando Git
+
+    - [ ] Instalando git no Mac
+
+    - [ ] Instalando git no Windows
+
+    - [ ] Instalando git no Linux
+
+    - [ ] Configuração inicial
+
+    - [ ] Git help
+
+- [ ] Começando
+
+    - [ ] Iniciando um repositório
+
+    - [ ] O git guarda o histórico do projeto
+
+    - [ ] O primeiro commit
+
+    - [ ] Git log
+
+- [ ] Conceitos
+
+    - [ ] Estágios do arquivo
+
+    - [ ] Git Workflow
+
+    - [ ] Hash SHA-1
+
+    - [ ] HEAD
+
+    - [ ] Revisão prática
+
+
 
 ---
 
