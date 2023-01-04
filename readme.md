@@ -200,11 +200,69 @@ Aplicações modernas não utilizam apenas uma unidade de medida e, por isso, va
 
 Um dos conceitos mais importantes do CSS, o Box Model, traz sentido para como muitas regras de posicionamento funcionam.
 
+- [ ] Uma caixa dentro da outra
+
+    - [ ] Abertura
+
+    - [ ] Introdução
+
+    - [ ] Box Sizing
+
+    - [ ] Display-block-inline
+
+    - [ ] Margin
+
+    - [ ] Padding
+
+    - [ ] Border-outline
+
 ---
 
 ### 06. Agora sim, cores
 
 Vamos dar mais vida à nossa página. Conheceremos mais sobre cores, hexadecimal, rgb, hsl, background, além das imagens de fundo.
+
+- [ ] Cores
+
+    - [ ] Abertura
+
+    - [ ] Introdução
+
+    - [ ] Keyword named values
+
+    - [ ] Hexadecimal
+
+    - [ ] RGB
+
+    - [ ] HSL
+
+    - [ ] Global values
+
+    - [ ] Conclusão
+
+- [ ] Background
+
+    - [ ] Introdução
+
+    - [ ] Background-color
+
+    - [ ] Background-image-repeat
+
+    - [ ] Background-position
+
+    - [ ] Background-size
+
+    - [ ] Background-origin-clip
+
+    - [ ] Background-attachment
+
+    - [ ] Shorthand
+
+    - [ ] Gradient
+
+    - [ ] Múltiplos valores
+
+Experimentar
 
 ---
 
