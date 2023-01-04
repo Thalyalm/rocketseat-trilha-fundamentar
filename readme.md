@@ -270,11 +270,59 @@ Experimentar
 
 Existem muitos elementos de mídia no HTML incluindo áudio e vídeo e chegou o momento de vermos todas possibilidades deles.
 
+- [ ] Audio e Vídeo
+
+    - [ ] Abertura
+
+    - [ ] Vídeo
+
+    - [ ] Áudio
+
+    - [ ] Iframe
+
+- [ ] Images
+
+    - [ ] Images
+
+    - [ ] Praticando images
+
+    - [ ] Background image
+
+    - [ ] Figures
+
+    - [ ] Intro de SVG
+
+    - [ ] SVG na prática    
+
 ---
 
 ### 08. Posicionando foguetes
 
 Você precisa saber onde os elementos da sua página deverão ser posicionados. Por isso, conhecer como o CSS trabalha com o layout, ou o posicionamento dos elementos na sua página, é essencial.
+
+- [ ] Posicionando foguetes
+
+    - [ ] Abertura
+
+    - [ ] Layouts
+
+    - [ ] Position
+
+    - [ ] Static
+
+    - [ ] Relative
+
+    - [ ] Absolute
+
+    - [ ] Fixed
+
+    - [ ] Element Stacking
+
+    - [ ] Flex
+
+    - [ ] Grid
+
+    - [ ] Grid ou Flexbox
 
 ---
 
@@ -282,17 +330,189 @@ Você precisa saber onde os elementos da sua página deverão ser posicionados. 
 
 Não adianta a aplicação estar linda, mas usando Comic Sans como fonte e, por isso, vamos aprender sobre tipografia na web com CSS.
 
+- [ ] Trabalhando com fontes
+
+    - [ ] Abertura
+
+    - [ ] Introdução font-properties
+
+    - [ ] Font-family
+
+    - [ ] Font-weight
+
+    - [ ] Font-style
+
+    - [ ] Font-size
+
+    - [ ] Web-fonts
+
+- [ ] Mais estilos para os textos
+
+    - [ ] Font-variant e font-stretch
+
+    - [ ] Letter e word-spacing
+
+    - [ ] Line-height e text-transform
+
+    - [ ] Text-decoration
+
+    - [ ] Text-align
+
+    - [ ] Text-shadow
+
+    - [ ] Shorthand
+
 ---
 
 ### 10. Formulários de outro planeta
 
 A tag form no HTML é a maneira mais tradicional de interagir com o usuário da aplicação e é incrível o que é possível com esse elemento.
 
+- [ ] Introdução
+
+    - [ ] Abertura
+
+    - [ ] O que são forms
+
+- [ ] Estrutura
+
+    - [ ] Form
+
+    - [ ] Fieldset legend
+
+    - [ ] Label
+
+    - [ ] Button
+
+    - [ ] Datalist
+
+- [ ] Tags de Entrada de Dados
+
+    - [ ] Input
+
+    - [ ] Input atributos
+
+    - [ ] Password
+
+    - [ ] Email
+
+    - [ ] URL
+
+    - [ ] File
+
+    - [ ] Color
+
+    - [ ] Checkbox
+
+    - [ ] Hidden
+
+    - [ ] Radio
+
+    - [ ] Textarea
+
+    - [ ] Select
+
+    - [ ] Optgroup
+
+    - [ ] Search
+
+    - [ ] Number
+
+    - [ ] Range
+
+    - [ ] Data e hora
+
+- [ ] Criando um formulário
+
+    - [ ] Desenhando
+
+    - [ ] Exemplo de formulário de contato
+
 ---
 
 ### 11. Guia Estelar JavaScript
 
 As aulas deste conjunto abordam tipos de dados, variáveis, funções, manipulação de dados, expressões e aplicabilidade dos recursos.
+
+- [ ] Introdução
+
+    - [ ] Abertura
+
+    - [ ] Javascript
+
+- [ ] Primeiros Passos
+
+    - [ ] Sintaxe
+
+    - [ ] Maneiras de executar o JavaScript
+
+    - [ ] Adicionando arquivos JS
+
+    - [ ] Comentários
+
+- [ ] Tipos de dados
+
+    - [ ] Introdução
+
+    - [ ] String
+
+    - [ ] Number
+
+    - [ ] Boolean
+
+    - [ ] Undefined vs null
+
+    - [ ] Object
+
+    - [ ] Array
+
+    - [ ] Conclusão
+
+- [ ] Variáveis
+
+    - [ ] Conhecendo as variáveis
+    
+    - [ ] Tipos dinâmicos
+
+    - [ ] Scope e var
+
+    - [ ] Scope let e const
+
+    - [ ] Nomeando variáveis
+
+- [ ] Praticando e avançando
+
+    - [ ] Declaration assignment var
+
+    - [ ] Agrupando declarações
+
+    - [ ] Concatenando e interpolando variáveis
+
+    - [ ] Objects
+
+    - [ ] Arrays
+
+    - [ ] Exercícios
+
+- [ ] Funções
+
+    - [ ] Functions
+
+    - [ ] Argumentos e parâmetros
+
+    - [ ] Retornando valores dentro da função
+
+    - [ ] Outra maneira de entender funções
+
+    - [ ] Function scope
+
+    - [ ] Function Hoisting
+
+    - [ ] Arrow function
+
+    - [ ] Callback function
+
+    - [ ] Funções construtoras
 
 ---
 
