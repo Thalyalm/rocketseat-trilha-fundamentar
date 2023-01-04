@@ -8,27 +8,27 @@ Projeto criado na Trilha Fundamentar na [Rocketseat](https://www.rocketseat.com.
 
 O módulo propõe configurações ao computador para viabilização do desenvolvimento de aplicações web, com guias para VSCode e Chrome.
 
-- [ ] Ambiente dev de outro mundo
+- [x] Ambiente dev de outro mundo
 
-    - [ ] Abertura e ferramentas básicas
+    - [x] Abertura e ferramentas básicas
 
-    - [ ] Sugestão de editor online
+    - [x] Sugestão de editor online
 
-    - [ ] (Windows) Instalando Edge
+    - [x] (Windows) Instalando Edge
 
-    - [ ] (Windows) Instalando VSCode
+    - [x] (Windows) Instalando VSCode
 
-    - [ ] (Windows) Instalando o NodeJS
+    - [x] (Windows) Instalando o NodeJS
 
-    - [ ] (Linux) Instalando Edge
+    - [x] (Linux) Instalando Edge
 
-    - [ ] (Linux) Instalando VSCode
+    - [x] (Linux) Instalando VSCode
 
-    - [ ] (Linux) Instalando o NodeJS
+    - [x] (Linux) Instalando o NodeJS
 
-    - [ ] (MAC) Instalando Chrome
+    - [x] (MAC) Instalando Chrome
 
-    - [ ] (MAC) Instalando VSCod
+    - [x] (MAC) Instalando VSCod
 
 ---
 
