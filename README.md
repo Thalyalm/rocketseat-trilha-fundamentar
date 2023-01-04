@@ -8,11 +8,127 @@ Projeto criado na Trilha Fundamentar na [Rocketseat](https://www.rocketseat.com.
 
 O módulo propõe configurações ao computador para viabilização do desenvolvimento de aplicações web, com guias para VSCode e Chrome.
 
+- [ ] Ambiente dev de outro mundo
+
+    - [ ] Abertura e ferramentas básicas
+
+    - [ ] Sugestão de editor online
+
+    - [ ] (Windows) Instalando Edge
+
+    - [ ] (Windows) Instalando VSCode
+
+    - [ ] (Windows) Instalando o NodeJS
+
+    - [ ] (Linux) Instalando Edge
+
+    - [ ] (Linux) Instalando VSCode
+
+    - [ ] (Linux) Instalando o NodeJS
+
+    - [ ] (MAC) Instalando Chrome
+
+    - [ ] (MAC) Instalando VSCod
+
 ---
 
 ### 02. Guia Estelar de HTML
 
 O conteúdo esclarece plugin de preview HTML, tags, atributos, semântica, listas, abreviações, listas, representação de código, URLs, diretórios, tabelas, THead, TBody, colgroup, cabeçalho, meta, favicon, meta SEO e meta social.
+
+ - [ ] Conceitos
+
+    - [ ] Abertura
+
+    - [ ] Instalando plugin de preview HTML
+
+    - [ ] O que é HTML
+
+    - [ ] Comentários
+
+    - [ ] Anatomia das Tags
+
+    - [ ] Atributos
+
+    - [ ] Atributos Globais
+
+    - [ ] Aninhamento Hierarquia
+
+    - [ ] Praticando
+
+    - [ ] Caracteres Reservados
+
+    - [ ] Anatomia Documento
+
+    - [ ] Criando Projetos
+
+- [ ] Trabalhando com Elementos
+
+    - [ ] Semântica
+
+    - [ ] Títulos e Parágrafos
+
+    - [ ] Listas
+
+    - [ ] Citações
+
+    - [ ] Abreviações
+
+    - [ ] Detalhes de contato
+
+    - [ ] Lista de descrição
+
+    - [ ] Representação de código
+
+    - [ ] Elementos Genéricos
+
+- [ ] Links
+
+    - [ ] Conhecendo a tag âncora
+
+    - [ ] Utilizando a tag âncora
+
+    - [ ] Conteúdos dentro de elemento a
+
+    - [ ] Caminhos e URLS
+
+    - [ ] Como navegar pelos diretórios
+
+    - [ ] Caminhos absolutos vs relativos
+
+    - [ ] Exercício de apresentação
+
+    - [ ] Exercício de resolução
+
+- [ ] Tabelas
+
+    - [ ] Tabelas
+
+    - [ ] Organizando Tabelas
+
+    - [ ] Tabela básica
+
+    - [ ] Tabela complexa
+
+    - [ ] THead complexa
+
+    - [ ] TBody complexo
+
+    - [ ] Melhorando o aspecto com colgroup
+
+    - [ ] Melhorando acessibilidade
+
+- [ ] Cabeçalho
+
+     - [ ] Head
+
+     - [ ] Meta
+
+     - [ ] Favicon
+
+     - [ ] Meta SEO
+
+     - [ ] Meta Social
 
 ---
 
