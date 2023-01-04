@@ -1009,9 +1009,9 @@ Atributos e funcionamento do Node, vantagens, variáveis globais, NPM, iniciaç�
 
 ---
 
-### 19. SQL
+### 18. NodeJS + EJS
 
-A unidade de aprendizagem apresenta serviços de bancos de dados, como guardar, recuperar e trabalhar informações com comandos SQL. Trabalha conceitos como tabelas, campos, Comando SELECT, e instrui o uso de operadores relacionais, matemáticos, lógicos e comandos avançados.
+Este módulo é dedicado à programação no HTML. Por meio do EJS, você vai entender como o Javascript constrói o HTML com NodeJS e Express.
 
 
 - [ ] Node + EJS
@@ -1032,9 +1032,9 @@ A unidade de aprendizagem apresenta serviços de bancos de dados, como guardar, 
 
 ---
 
-### 18. NodeJS + EJS
+### 19. SQL
 
-Este módulo é dedicado à programação no HTML. Por meio do EJS, você vai entender como o Javascript constrói o HTML com NodeJS e Express.
+A unidade de aprendizagem apresenta serviços de bancos de dados, como guardar, recuperar e trabalhar informações com comandos SQL. Trabalha conceitos como tabelas, campos, Comando SELECT, e instrui o uso de operadores relacionais, matemáticos, lógicos e comandos avançados.
 
 - [ ] Introdução
 
