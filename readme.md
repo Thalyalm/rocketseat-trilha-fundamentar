@@ -136,6 +136,40 @@ O conteúdo esclarece plugin de preview HTML, tags, atributos, semântica, lista
 
 O conteúdo aborda anatomia, seletores, box model, cascata, especificidade, Shorthand, funções, DevTools e vendor prefixes.
 
+- [ ] O guia estelar de CSS
+
+     - [ ] Abertura
+
+     - [ ] Conhecendo o CSS
+
+     - [ ] Comentários
+
+     - [ ] Anatomia
+
+     - [ ] Seletores
+
+     - [ ] Box model
+
+     - [ ] Origem do CSS
+
+     - [ ] A Cascata
+
+     - [ ] Especificidade
+
+     - [ ] Regra important
+
+     - [ ] At rules
+
+     - [ ] Shorthand
+
+     - [ ] Funções
+
+     - [ ] DevTools
+
+     - [ ] Cuidados com a escrita
+
+     - [ ] Vendor prefixes
+
 ---
 
 ### 04. Nem tudo são Pixels
