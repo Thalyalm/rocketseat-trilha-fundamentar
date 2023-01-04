@@ -262,7 +262,7 @@ Vamos dar mais vida à nossa página. Conheceremos mais sobre cores, hexadecimal
 
     - [ ] Múltiplos valores
 
-Experimentar
+    - [ ] Experimentar
 
 ---
 
@@ -514,11 +514,125 @@ As aulas deste conjunto abordam tipos de dados, variáveis, funções, manipula�
 
     - [ ] Funções construtoras
 
+- [ ] Manipulando dados
+
+    - [ ] Prototype
+
+    - [ ] Type conversion coersion
+
+    - [ ] Strings em números
+
+    - [ ] Contando caracteres e digitos
+
+    - [ ] Casas decimais
+
+    - [ ] Maiúsculas e minúsculas
+
+    - [ ] Separando strings
+
+    - [ ] Encontrando palavras em frases
+
+    - [ ] Criando array com construtor
+
+    - [ ] Elementos do Array
+
+    - [ ] Strings para arrays
+
+    - [ ] Manipulando arrays
+
+- [ ] Expressões e Operadores
+
+    - [ ] Expressões e operadores
+
+    - [ ] New
+
+    - [ ] Typeof delete
+
+    - [ ] Operadores aritméticos
+
+    - [ ] Grouping operator
+
+    - [ ] Operadores de comparação igual a e diferente de
+
+    - [ ] Operadores de comparação estritamente igual e estritamente diferente
+
+    - [ ] Operadores de comparação maior e menor (igual)
+
+    - [ ] Operadores de atribuição
+
+    - [ ] Operadores lógicos
+
+    - [ ] Operador condicional ternário
+
+    - [ ] Operadores para string
+
+    - [ ] Falsy e truthy
+
+    - [ ] Precedência dos operadores
+
+- [ ] Condicionais e controle de fluxo
+
+    - [ ] Controle de fluxo da aplicação
+
+    - [ ] If e Else
+
+    - [ ] Switch
+
+    - [ ] Throw e Try/Catch
+
+- [ ] Estruturas de repetição
+
+    - [ ] For
+
+    - [ ] While
+
+    - [ ] For of
+
+    - [ ] For in
+
+- [ ] Consolidando com exercícios
+
+    - [ ] Praticar para aperfeiçoar
+
+    - [ ] Sistema de notas escolares
+
+    - [ ] Fluxo de caixa familiar
+
+    - [ ] Celsius to Fahrenheit
+
+    - [ ] Buscando e encontrando dados em Array
+
 ---
 
 ### 12. HTML que faz sentido, para todos
 
 A web é um espaço para todos e, por isso, precisamos entender sobre semântica dos elementos e acessibilidade do HTML.
+
+- [ ] HTML que faz sentido, para todos
+    
+    - [ ] Abertura
+
+    - [ ] Web semântica
+
+    - [ ] Importância das tags HTML semânticas
+
+    - [ ] Seções comuns
+
+    - [ ] Header
+
+    - [ ] Nav
+
+    - [ ] Main
+
+    - [ ] Article
+
+    - [ ] Aside
+
+    - [ ] Footer
+
+    - [ ] Section
+
+    - [ ] Elementos genéricos não semânticos
 
 ---
 
@@ -526,11 +640,127 @@ A web é um espaço para todos e, por isso, precisamos entender sobre semântica
 
 Existem muitas formas de selecionarmos o elemento do HTML para aplicarmos regras de CSS e vamos conhecer todas elas agora.
 
+- [ ] Selectors and Combinators
+
+    - [ ] Introdução
+
+    - [ ] Seletores
+
+    - [ ] Combinators
+
+    - [ ] Child combinator
+
+    - [ ] Sibling Combinator
+
+    - [ ] Utilizando combinators
+
+- [ ] Pseudo-classes
+
+    - [ ] Pseudo-classes
+
+    - [ ] first-child
+    
+    - [ ] nth-of-type
+
+    - [ ] nth-child
+
+    - [ ] nth-child odd e even
+
+    - [ ] hover e focus
+
+    - [ ] disabled e required
+
+    - [ ] Como conseguir ajuda
+
+- [ ] Pseudo-elements
+
+    - [ ] Pseudo-elements
+
 ---
 
 ### 14. Alinhando os planetas
 
 Com o CSS moderno, nós podemos posicionar, alinhar, ordenar e trabalhar com os elementos de maneira flexível. Esse e outros poderes do Flexbox você vai conhecer agora.
+
+- [ ] Introdução
+
+    - [ ] Abertura
+
+    - [ ] O que preciso saber para este curso
+
+- [ ] Layouts CSS
+
+    - [ ] Layouts e evolução
+
+    - [ ] Normal flow
+
+    - [ ] Table
+
+    - [ ] Tableless
+
+    - [ ] Flexbox
+
+- [ ] Terminologia
+
+    - [ ] Flex container - Flex item e Nesting
+
+    - [ ] Eixo principal e cruzado
+
+    - [ ] Flex sizing
+
+- [ ] Propriedades do Flex Container
+
+    - [ ] Propriedades do Flex Container
+
+    - [ ] Direção dos itens
+
+    - [ ] Multiplas linhas
+
+    - [ ] Direção e multi linha em uma única propriedade
+
+    - [ ] Alinhamento dos itens no eixo principal
+
+    - [ ] Alinhamento dos itens no eixo cruzado
+
+    - [ ] Espaço entre os elementos
+
+- [ ] Propriedades dos Itens
+
+    - [ ] Propriedades para os itens
+
+    - [ ] Largura e altura dos itens com flex-basis
+
+    - [ ] Crescimento e adaptação dos itens
+
+    - [ ] Encolhimento e encaixe dos elementos
+
+    - [ ] Shorthand flex
+
+    - [ ] Alterando tamanho de múltiplos itens
+
+    - [ ] Ordenando itens
+
+- [ ] Desafios
+
+    - [ ] Header menu navigation
+
+    - [ ] Header menu navigation - resolução
+
+    - [ ] Layout com 2 colunas
+
+    - [ ] Layout com 2 colunas - resolução
+
+    - [ ] 9 fotos 3 colunas
+
+    - [ ] 9 fotos 3 colunas - resolução
+
+    - [ ] Imagem dentro de um botão
+
+    - [ ] Imagem dentro de um botão - resolução
+
+    - [ ] Footer
+
+    - [ ] Footer - resolução
 
 ---
 
@@ -538,11 +768,175 @@ Com o CSS moderno, nós podemos posicionar, alinhar, ordenar e trabalhar com os 
 
 O módulo explora atributos e funcionalidades da DOM, getElementById, ByClassName e ByTagName, além de querySelector, querySelectorAll, textContent, innerText, innerHTML, Value, alteração com style, classList, parentElement e parentNode, elementos filhos e irmãos, insertBefore, métodos para adição de eventos via JS.
 
+- [ ] Introdução
+
+    - [ ] O que é e para que serve a DOM
+
+    - [ ] Representação visual
+
+- [ ] Selecionando elementos
+
+    - [ ] getElementById
+
+    - [ ] getElementsByClassName
+
+    - [ ] getElementsByTagName
+
+    - [ ] querySelector
+
+    - [ ] querySelectorAll
+
+    - [ ] Qual usar?
+
+- [ ] Manipulando conteúdos
+
+    - [ ] textContent
+
+    - [ ] innerText
+
+    - [ ] innerHTML
+
+    - [ ] Value
+
+    - [ ] Manipulando atributos
+
+- [ ] Manipulando estilos e classes
+
+    - [ ] Alterando estilos com style
+    
+    - [ ] classList
+
+- [ ] Navegando pelos elementos
+
+    - [ ] parentElement e parentNode
+
+    - [ ] Pegando elementos filhos
+
+    - [ ] Buscando irmãos
+
+- [ ] Criando e adicionando elementos na página
+
+    - [ ] Criando e adicionando elementos na página
+
+    - [ ] insertBefore
+
+- [ ] Eventos
+
+    - [ ] Adicionando eventos via HTML
+
+    - [ ] Eventos de teclado
+
+    - [ ] Adicionando eventos via JS
+
+    - [ ] Adicionando eventos via JS (Outro método)
+
+    - [ ] Argumento event
+
+- [ ] Praticando
+
+    - [ ] Desafio modal
+
+    - [ ] Resolução desafio modal
+
+    - [ ] Despedida
+
 ---
 
 ### 16. Terminal
 
 O conteúdo familiariza termos para o assunto de linha de comando, como Unix, kernel, shell, comandos e utilitários, arquivos e diretórios e bash.
+
+- [ ] Abertura
+
+    - [ ] Abertura
+
+    - [ ] Por que esse curso?
+
+    - [ ] O que é Command Line?
+
+    - [ ] Sintaxe
+
+- [ ] Preparação e Dicas
+
+    - [ ] Tab Completion
+
+    - [ ] Atalhos
+
+    - [ ] Hyper
+
+    - [ ] Conseguindo ajuda
+
+- [ ] Arquivos e Diretórios
+
+    - [ ] Informando o diretório atual
+    
+    - [ ] Navegando pelas pastas
+
+    - [ ] Listando arquivos e pastas
+
+    - [ ] Obtendo informações dos arquivos
+
+    - [ ] Criando diretórios com mkdir
+
+    - [ ] Criando arquivos com touch
+
+    - [ ] Copiando arquivos e pastas
+
+    - [ ] Movendo e renomeando arquivos ou pastas
+
+    - [ ] Removendo arquivos ou pastas
+
+    - [ ] Wildcards (curingas)
+
+    - [ ] Encontrar arquivos ou pastas com find
+
+    - [ ] Ver conteúdo de arquivos com cat e less
+
+    - [ ] Editando arquivos com nano e vim
+
+- [ ] Conhecendo o node
+
+    - [ ] Abertura
+
+    - [ ] O que podemos fazer com o NodeJS?
+
+    - [ ] Vantagens
+
+    - [ ] O que é o NodeJS?
+
+    - [ ] V8
+
+    - [ ] Como funciona?
+
+    - [ ] Avançando no entendimento e funcionamento
+
+    - [ ] De onde veio e pra onde vai o NodeJS?
+
+- [ ] Configurando o ambiente
+
+    - [ ] Instalando o NodeJS
+
+    - [ ] REPL
+
+    - [ ] VS Code
+
+- [ ] Iniciando na prática
+
+    - [ ] Executando o primeiro arquivo e entendendo globals
+
+    - [ ] O que são e como utilizar módulos?
+
+    - [ ] Criando módulos
+
+    - [ ] Pegando informações do processo
+
+    - [ ] Passando flags como argumento
+
+    - [ ] Apresentação do desafio
+
+    - [ ] Resolução do desafio
+
+    - [ ] Finalizando o módulo
 
 ---
 
