@@ -1300,7 +1300,47 @@ As aulas revelam a importância do Git, tipos de controle de versões, configura
 
     - [ ] Revisão prática
 
+- [ ] Alterando arquivos
 
+    - [ ] Adicionando arquivos com git add
+    
+    - [ ] Editando arquivos
+
+    - [ ] Modificações com git diff
+
+    - [ ] Git diff staged
+
+    - [ ] Deletando arquivos
+
+    - [ ] Renomeando arquivos
+
+    - [ ] Movendo arquivos
+
+- [ ] Desfazendo mudanças
+
+    - [ ] Resfazendo modificações
+
+    - [ ] Trazendo de volta do staged
+
+    - [ ] Corrigindo o último commit
+
+    - [ ] Recuperando arquivos
+
+    - [ ] Removendo arquivos não rastreados
+
+    - [ ] Revertendo um commit
+
+- [ ] Usando Git em um projeto real
+
+    - [ ] Iniciando um novo projeto
+
+    - [ ] Adicionando e verificando alterações
+
+    - [ ] Staging e commits com atalho
+
+    - [ ] Ver modificações em diversos pontos da história
+
+    - [ ] Ignorando arquivos e diretórios indesejados
 
 ---
 
@@ -1308,10 +1348,146 @@ As aulas revelam a importância do Git, tipos de controle de versões, configura
 
 O módulo instrui como inserir códigos na nuvem do GitHub, incluindo visualização de histórico, criação de repositório, repositório remoto e local, pesquisa, estrelas e git clone.
 
+- [ ] Introdução
+
+    - [ ] Para quem é o curso?
+
+    - [ ] Requisitos para o curso e revisão de Git
+
+- [ ] Primeiros passos
+
+    - [ ] Criando uma conta
+
+    - [ ] Configurando perfil público
+
+    - [ ] Conhecendo a página do usuário
+
+- [ ] Criando repositórios
+
+    - [ ] Criando repositório online
+
+    - [ ] Conhecendo a página do repositório
+
+    - [ ] Atualizando o repositório
+
+    - [ ] Copiando ideia de README pessoal
+
+    - [ ] Colaborando em outros repositórios
+
+    - [ ] Conhecendo o restante da página pessoal
+
+- [ ] Trabalhando com repositórios
+
+    - [ ] Criando chave SSH
+    
+    - [ ] Adicionando chaves ao gerenciador local SSH Agent
+
+    - [ ] Linkando um repositório remoto com local
+
+    - [ ] Modificando arquivos local e enviando para repositório remoto
+
+    - [ ] Modificando arquivos remotos e puxando para repositório local
+
+    - [ ] Entendendo o histórico remoto
+
+    - [ ] Corrigindo conflitos de merge
+
+- [ ] Outras features
+
+    - [ ] Pesquisando no Github
+
+    - [ ] Estrelas e git clone
+
+    - [ ] Despedida
+
 ---
 
 ### 25. Guia estelar de HTTP
 
 O módulo traz uma introdução à programação com conceituações como algoritmo, lógica de programação, dados e manipulação de dados e resolução de problemas com exemplos. As aulas deste seção também exploram o funcionamento da web, com os fundamentos de URL, HTTP, TCP, IP, proxies, cliente e servidor e browser.
+
+- [ ] Entendendo
+
+    - [ ] Abertura
+
+    - [ ] Visão Geral
+
+    - [ ] Visualizando a comunicação
+
+    - [ ] Visualizando com DevTools
+
+    - [ ] Visualizando com cURL
+
+- [ ] Conceitos
+
+    - [ ] Conceitos
+
+    - [ ] Cliente
+
+    - [ ] Servidor
+
+    - [ ] Proxies
+
+- [ ] URI
+
+    - [ ] Resource
+
+    - [ ] Recurso
+
+    - [ ] URL
+
+    - [ ] URN
+
+    - [ ] Revisão Resource
+
+- [ ] Messages
+ 
+    - [ ] Mensagens
+    
+    - [ ] Request
+    
+    - [ ] Response
+
+- [ ] Methods
+
+    - [ ] Introdução
+
+    - [ ] Methods
+
+    - [ ] JSON Server
+
+    - [ ] OPTIONS
+
+    - [ ] GET
+
+    - [ ] HEAD
+
+    - [ ] POST
+
+    - [ ] PUT
+
+    - [ ] PATCH
+
+    - [ ] DELETE
+
+- [ ] Headers
+
+    - [ ] O que são Headers?
+
+    - [ ] Entendendo pelo contexto
+
+    - [ ] General
+
+    - [ ] Request
+
+    - [ ] Response
+
+    - [ ] Obtendo Ajuda
+
+- [ ] Status
+
+    - [ ] Status code mais comuns
+
+    - [ ] Buscando mais inform
 
 ---
