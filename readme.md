@@ -938,17 +938,169 @@ O conteúdo familiariza termos para o assunto de linha de comando, como Unix, ke
 
     - [ ] Finalizando o módulo
 
+- [ ] NPM - Node Package Manager
+
+    - [ ] NPM
+
+    - [ ] Iniciando um pacote com npm
+
+    - [ ] package.json
+
+    - [ ] Instalando dependências
+
+    - [ ] Dependências de desenvolvimento e atualização
+
+    - [ ] O que é o diretório node_modules
+
+    - [ ] package-lock.json
+
+    - [ ] Criando e rodando scripts
+
+    - [ ] Instalando dependências globais
+
+    - [ ] Gerenciando versões das dependências
+
+    - [ ] Removendo pacotes
+
+- [ ] BestMe App: Interagindo com o aplicativo
+
+    - [ ] O que vamos aprender?
+
+    - [ ] Apresentando as perguntas com process.stdout.write
+
+    - [ ] Recebendo dados de entrada e assincronismo com process.stdin.on
+
+    - [ ] Lógica para apresentar perguntas e salvar respostas
+
+    - [ ] Finalizando e revisando
+
+- [ ] Timers
+
+    - [ ] Introdução
+
+    - [ ] setTimeout
+
+    - [ ] clearTimeout
+
+    - [ ] setInterval
+    
+    - [ ] clearInterval
+
+- [ ] Events
+
+    - [ ] Event Module
+
+    - [ ] Event Emitter
+
+    - [ ] Emitindo eventos
+
+    - [ ] Ouvindo e executando ações para eventos
+
+    - [ ] Ouvindo eventos uma única vez
+
+    - [ ] Herdando do EventEmitter
+
 ---
 
 ### 17. NodeJS
 
 Atributos e funcionamento do Node, vantagens, variáveis globais, NPM, iniciação de pacotes, scripts, dependências globais, timers e módulo de eventos.
 
+- [ ] Node + EJS
+
+    - [ ] Criando o HTML
+
+    - [ ] Criando o servidor
+
+    - [ ] Separando partes do layout
+
+    - [ ] Nova página e menu
+
+    - [ ] Views e partials - Organização
+
+    - [ ] Passando um objeto para o ejs
+
+    - [ ] Foreach
+
 ---
 
 ### 18. NodeJS + EJS
 
 Este módulo é dedicado à programação no HTML. Por meio do EJS, você vai entender como o Javascript constrói o HTML com NodeJS e Express.
+
+- [ ] Introdução
+
+    - [ ] Overview do curso
+
+    - [ ] O que é um banco de dados?
+
+    - [ ] Serviços de banco de dados
+
+- [ ] Conceitos
+
+    - [ ] Tabelas
+
+    - [ ] Campos
+
+    - [ ] Informações
+
+    - [ ] Exemplo escola
+
+- [ ] Configurando Ambiente
+
+    - [ ] Instalando o Beekeeper
+
+    - [ ] Abrindo um banco SQLite
+
+- [ ] Tipos de campos
+
+    - [ ] Text
+
+    - [ ] Number
+
+    - [ ] Datatime
+
+    - [ ] Primary Key
+
+    - [ ] Nomes de campos e tabelas
+
+- [ ] Comando SELECT
+
+    - [ ] SELECT
+
+    - [ ] SELECT especificando campos
+
+    - [ ] SELECT com WHERE
+
+- [ ] Operadores Relacionais
+
+    - [ ] =, Igual
+
+    - [ ] Like
+
+    - [ ] >, Maior que
+
+    - [ ] <, Menor que
+
+    - [ ] >=, Maior ou igual
+
+    - [ ] <=, Menor ou igual
+
+    - [ ] <> Não igual a
+
+    - [ ] != Diferente de
+
+- [ ] Operadores Matemáticos
+
+    - [ ] +, Adição
+
+    - [ ] -, Subtração
+
+    - [ ] *, Multiplicação
+
+    - [ ] /, Divisão
+
+    - [ ] %, Módulo
 
 ---
 
