@@ -176,6 +176,24 @@ O conteúdo aborda anatomia, seletores, box model, cascata, especificidade, Shor
 
 Aplicações modernas não utilizam apenas uma unidade de medida e, por isso, vamos aprender sobre todas unidades e possibilidades.
 
+- [ ] Nem tudo são pixels
+
+    - [ ] Abertura
+
+    - [ ] Introdução
+
+    - [ ] Tipos numéricos e unidades comuns
+
+    - [ ] Distâncias absolutas e relativas
+
+    - [ ] Porcentagens
+
+    - [ ] Position
+
+    - [ ] Funções
+
+    - [ ] Strings e identificadores
+
 ---
 
 ### 05. Uma caixa dentro da outra
