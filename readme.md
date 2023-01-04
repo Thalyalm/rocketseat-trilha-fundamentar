@@ -894,6 +894,13 @@ O conteúdo familiariza termos para o assunto de linha de comando, como Unix, ke
 
     - [ ] Editando arquivos com nano e vim
 
+---
+
+### 17. NodeJS
+
+Atributos e funcionamento do Node, vantagens, variáveis globais, NPM, iniciação de pacotes, scripts, dependências globais, timers e módulo de eventos.
+
+
 - [ ] Conhecendo o node
 
     - [ ] Abertura
@@ -1002,9 +1009,10 @@ O conteúdo familiariza termos para o assunto de linha de comando, como Unix, ke
 
 ---
 
-### 17. NodeJS
+### 19. SQL
 
-Atributos e funcionamento do Node, vantagens, variáveis globais, NPM, iniciação de pacotes, scripts, dependências globais, timers e módulo de eventos.
+A unidade de aprendizagem apresenta serviços de bancos de dados, como guardar, recuperar e trabalhar informações com comandos SQL. Trabalha conceitos como tabelas, campos, Comando SELECT, e instrui o uso de operadores relacionais, matemáticos, lógicos e comandos avançados.
+
 
 - [ ] Node + EJS
 
@@ -1102,17 +1110,59 @@ Este módulo é dedicado à programação no HTML. Por meio do EJS, você vai en
 
     - [ ] %, Módulo
 
----
+- [ ] Operadores Lógicos
 
-### 19. SQL
+    - [ ] AND
 
-A unidade de aprendizagem apresenta serviços de bancos de dados, como guardar, recuperar e trabalhar informações com comandos SQL. Trabalha conceitos como tabelas, campos, Comando SELECT, e instrui o uso de operadores relacionais, matemáticos, lógicos e comandos avançados.
+    - [ ] OR
+
+    - [ ] BETWEEN
+
+    - [ ] IN e NOT IN
+
+    - [ ] IS NULL e IS NOT NULL
+
+- [ ] Mais Comandos
+
+    - [ ] INSERT INTO
+
+    - [ ] UPDATE
+
+    - [ ] DELETE
 
 ---
 
 ### 20. Estrutura de Dados
 
 O módulo traz conceitos básicos de dados no intuito de instruir aqueles que queiram conhecer o básico de apresentação e modelagem de estruturas de dados com Java Script
+
+- [ ] Estrutura de Dados
+
+    - [ ] Objetivo
+
+    - [ ] Conhecimentos prévios
+
+    - [ ] Por que estudar estrutura de dados?
+
+    - [ ] O que é Estrutura de Dados?
+
+    - [ ] Gerenciando os dados
+
+    - [ ] Arrays
+
+    - [ ] Array no código
+
+    - [ ] Matriz
+
+    - [ ] Stack
+
+    - [ ] Stack no código
+
+    - [ ] Queue
+
+    - [ ] Queue no código
+
+    - [ ] Visão Geral
 
 ---
 
