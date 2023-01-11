@@ -4,7 +4,7 @@
 
 ---
 
-### 1. [Ambiente Dev](/aulas/ambiente-dev)
+### :ballot_box_with_check: 1. [Ambiente Dev](/aulas/ambiente-dev)
 
 O módulo propõe configurações ao computador para viabilização do desenvolvimento de aplicações web, com guias para VSCode e Chrome.
 
