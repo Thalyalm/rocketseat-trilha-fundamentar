@@ -3,6 +3,8 @@
 ### Ferramentas básicas:
 
 Computador
+    
+    Windowns, Mac, Linux
 
 Editor de texto 
     
