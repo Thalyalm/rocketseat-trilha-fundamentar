@@ -9,6 +9,6 @@
 
 O módulo propõe configurações ao computador para viabilização do desenvolvimento de aplicações web, com guias para VSCode e Chrome.
 
-- [x] [Ambiente dev de outro mundo]()
+- [x] [Ambiente dev de outro mundo](/aulas/ambiente-dev/ambiente-dev-de-outro-mundo)
 
 ---
