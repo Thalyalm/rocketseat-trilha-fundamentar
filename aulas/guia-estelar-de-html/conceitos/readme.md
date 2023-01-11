@@ -1,3 +1,9 @@
+[Início](https://github.com/Thalyalm/rocketseat-trilha-fundamentar) /
+[Aulas](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/aulas/guia-estelar-de-html) /
+[Documentação](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/documentacao)
+
+---
+
 - [ ] Abertura
 
 - [ ] Instalando plugin de preview HTML
