@@ -1,7 +1,5 @@
 # Ambiente dev de outro mundo
 
----
-
 ### Ferramentas básicas:
 
 Computador
