@@ -8,6 +8,6 @@
 
 O conteúdo aborda anatomia, seletores, box model, cascata, especificidade, Shorthand, funções, DevTools e vendor prefixes.
 
-- [ ] [O guia estelar de CSS](/aulas/guia-estelar-de-css/o-guia-estelar-de-css)
+[O guia estelar de CSS](/aulas/guia-estelar-de-css/o-guia-estelar-de-css)
 
 ---

@@ -4,24 +4,24 @@
 
 ---
 
-- [x] [Abertura e ferramentas básicas
+:ballot_box_with_check: [Abertura e ferramentas básicas
 
-- [x] [Sugestão de editor online
+:ballot_box_with_check: [Sugestão de editor online
 
-- [x] (Windows) Instalando Edge
+:ballot_box_with_check: (Windows) Instalando Edge
 
-- [x] (Windows) Instalando VSCode
+:ballot_box_with_check: (Windows) Instalando VSCode
 
-- [x] (Windows) Instalando o NodeJS
+:ballot_box_with_check: (Windows) Instalando o NodeJS
 
-- [x] (Linux) Instalando Edge
+:ballot_box_with_check: (Linux) Instalando Edge
 
-- [x] (Linux) Instalando VSCode
+:ballot_box_with_check: (Linux) Instalando VSCode
 
-- [x] (Linux) Instalando o NodeJS
+:ballot_box_with_check: (Linux) Instalando o NodeJS
 
-- [x] (MAC) Instalando Chrome
+:ballot_box_with_check: (MAC) Instalando Chrome
 
-- [x] (MAC) Instalando VSCod
+:ballot_box_with_check: (MAC) Instalando VSCod
 
 ---

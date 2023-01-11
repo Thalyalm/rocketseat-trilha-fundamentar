@@ -4,20 +4,20 @@
 
 ---
 
-- [ ] Tabelas
+Tabelas
 
-- [ ] Organizando Tabelas
+Organizando Tabelas
 
-- [ ] Tabela básica
+Tabela básica
 
-- [ ] Tabela complexa
+Tabela complexa
 
-- [ ] THead complexa
+THead complexa
 
-- [ ] TBody complexo
+TBody complexo
 
-- [ ] Melhorando o aspecto com colgroup
+Melhorando o aspecto com colgroup
 
-- [ ] Melhorando acessibilidade
+Melhorando acessibilidade
 
 ---
