@@ -19,3 +19,5 @@
 - [ ] Exercício de apresentação
 
 - [ ] Exercício de resolução
+
+---

@@ -19,3 +19,5 @@
 - [ ] Melhorando o aspecto com colgroup
 
 - [ ] Melhorando acessibilidade
+
+---

@@ -23,3 +23,5 @@
 - [x] (MAC) Instalando Chrome
 
 - [x] (MAC) Instalando VSCod
+
+---
