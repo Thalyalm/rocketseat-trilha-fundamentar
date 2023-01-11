@@ -2,7 +2,7 @@
 
 O conteúdo esclarece plugin de preview HTML, tags, atributos, semântica, listas, abreviações, listas, representação de código, URLs, diretórios, tabelas, THead, TBody, colgroup, cabeçalho, meta, favicon, meta SEO e meta social.
 
-- [ ] [Conceitos]()
+- [ ] [Conceitos](aulas/guia-estelar-de-html/conceitos)
 
 - [ ] [Trabalhando com Elementos]()
 
@@ -10,6 +10,6 @@ O conteúdo esclarece plugin de preview HTML, tags, atributos, semântica, lista
 
 - [ ] [Tabelas]()
 
-- [ ] [Cabeçalho]()
+- [ ] [Cabeçalho](aulas/guia-estelar-de-html/cabecalho)
 
 ---
