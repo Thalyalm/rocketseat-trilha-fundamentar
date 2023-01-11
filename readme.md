@@ -4,7 +4,7 @@ Projeto criado na Trilha Fundamentar na [Rocketseat](https://www.rocketseat.com.
 
 ---
 
-### 01. Ambiente Dev:
+### 1. Ambiente Dev:
 
 O módulo propõe configurações ao computador para viabilização do desenvolvimento de aplicações web, com guias para VSCode e Chrome.
 
@@ -32,7 +32,7 @@ O módulo propõe configurações ao computador para viabilização do desenvolv
 
 ---
 
-### 02. Guia Estelar de HTML
+### 2. Guia Estelar de HTML
 
 O conteúdo esclarece plugin de preview HTML, tags, atributos, semântica, listas, abreviações, listas, representação de código, URLs, diretórios, tabelas, THead, TBody, colgroup, cabeçalho, meta, favicon, meta SEO e meta social.
 
@@ -132,7 +132,7 @@ O conteúdo esclarece plugin de preview HTML, tags, atributos, semântica, lista
 
 ---
 
-### 03. Guia Estelar de CSS
+### 3. Guia Estelar de CSS
 
 O conteúdo aborda anatomia, seletores, box model, cascata, especificidade, Shorthand, funções, DevTools e vendor prefixes.
 
@@ -172,7 +172,7 @@ O conteúdo aborda anatomia, seletores, box model, cascata, especificidade, Shor
 
 ---
 
-### 04. Nem tudo são Pixels
+### 4. Nem tudo são Pixels
 
 Aplicações modernas não utilizam apenas uma unidade de medida e, por isso, vamos aprender sobre todas unidades e possibilidades.
 
@@ -196,7 +196,7 @@ Aplicações modernas não utilizam apenas uma unidade de medida e, por isso, va
 
 ---
 
-### 05. Uma caixa dentro da outra
+### 5. Uma caixa dentro da outra
 
 Um dos conceitos mais importantes do CSS, o Box Model, traz sentido para como muitas regras de posicionamento funcionam.
 
@@ -218,7 +218,7 @@ Um dos conceitos mais importantes do CSS, o Box Model, traz sentido para como mu
 
 ---
 
-### 06. Agora sim, cores
+### 6. Agora sim, cores
 
 Vamos dar mais vida à nossa página. Conheceremos mais sobre cores, hexadecimal, rgb, hsl, background, além das imagens de fundo.
 
@@ -266,7 +266,7 @@ Vamos dar mais vida à nossa página. Conheceremos mais sobre cores, hexadecimal
 
 ---
 
-### 07. Posso ver e ouvir o HTML
+### 7. Posso ver e ouvir o HTML
 
 Existem muitos elementos de mídia no HTML incluindo áudio e vídeo e chegou o momento de vermos todas possibilidades deles.
 
@@ -296,7 +296,7 @@ Existem muitos elementos de mídia no HTML incluindo áudio e vídeo e chegou o 
 
 ---
 
-### 08. Posicionando foguetes
+### 8. Posicionando foguetes
 
 Você precisa saber onde os elementos da sua página deverão ser posicionados. Por isso, conhecer como o CSS trabalha com o layout, ou o posicionamento dos elementos na sua página, é essencial.
 
@@ -326,7 +326,7 @@ Você precisa saber onde os elementos da sua página deverão ser posicionados. 
 
 ---
 
-### 09. App bonito, até nos textos
+### 9. App bonito, até nos textos
 
 Não adianta a aplicação estar linda, mas usando Comic Sans como fonte e, por isso, vamos aprender sobre tipografia na web com CSS.
 
