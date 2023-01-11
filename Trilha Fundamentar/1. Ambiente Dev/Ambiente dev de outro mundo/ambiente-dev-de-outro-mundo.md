@@ -1,6 +1,6 @@
 # Ambiente dev de outro mundo
 
-### Ferramentas básicas:
+### Ferramentas básicas::
 
 Computador
     
