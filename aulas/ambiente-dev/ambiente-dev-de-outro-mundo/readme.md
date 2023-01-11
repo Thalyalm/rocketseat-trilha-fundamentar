@@ -5,10 +5,22 @@
 
 ---
 
-### 1. Ambiente Dev:
+- [x] [Abertura e ferramentas básicas
 
-O módulo propõe configurações ao computador para viabilização do desenvolvimento de aplicações web, com guias para VSCode e Chrome.
+- [x] [Sugestão de editor online
 
-- [x] [Ambiente dev de outro mundo]()
+- [x] (Windows) Instalando Edge
 
----
+- [x] (Windows) Instalando VSCode
+
+- [x] (Windows) Instalando o NodeJS
+
+- [x] (Linux) Instalando Edge
+
+- [x] (Linux) Instalando VSCode
+
+- [x] (Linux) Instalando o NodeJS
+
+- [x] (MAC) Instalando Chrome
+
+- [x] (MAC) Instalando VSCod
