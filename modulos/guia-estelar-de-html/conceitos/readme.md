@@ -141,11 +141,11 @@ Aninhamento em HTML significa colocar uma tag dentro da outra, porém não é qu
         <p> texto2</p> 
     </p>
 
-Podemos ver no exemplo acima que a tag  <code><em></em></code>(usada para dar enfase em um texto) é pertencente a Tag <p></p>(usada para criar um parágrafo).
+Podemos ver no exemplo acima que a tag  &lt;em&gt; &lt;/em&gt;(usada para dar enfase em um texto) é pertencente a Tag &lt;p&gt; &lt;/p&gt;(usada para criar um parágrafo).
 
 Também é possível notar que há um fluxo, onde as tags são lidas por ordem de cima para baixo.
 
-Por fim o posicionamento de elementos, podemos ver que a tag <em></em> não está em uma outra linha como na tag <p></p>, existem tags que quebram a linha, então mesmo que colocarmos a tag <p></p> uma do lado da outra, visualmente vai dar quebra de linha.
+Por fim o posicionamento de elementos, podemos ver que a tag &lt;em&gt; &lt;/em&gt; não está em uma outra linha como na tag &lt;p&gt; &lt;/p&gt;, existem tags que quebram a linha, então mesmo que colocarmos a tag &lt;p&gt; &lt;/p&gt; uma do lado da outra, visualmente vai dar quebra de linha.
 
 ---
 
