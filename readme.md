@@ -6,6 +6,6 @@
 
 # Trilha Fundamentar
 
-Projeto criado na Trilha Fundamentar na [Rocketseat](https://www.rocketseat.com.br/)
+Base de conhecimento criada na Trilha Fundamentar na [Rocketseat](https://www.rocketseat.com.br/)
 
 ---
