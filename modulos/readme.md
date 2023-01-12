@@ -4,19 +4,19 @@
 
 ---
 
-### :ballot_box_with_check: 1. [Ambiente Dev](/aulas/ambiente-dev)
+### :ballot_box_with_check: 1. [Ambiente Dev](/modulos/ambiente-dev)
 
 O módulo propõe configurações ao computador para viabilização do desenvolvimento de aplicações web, com guias para VSCode e Chrome.
 
 ---
 
-### 2. [Guia Estelar de HTML](/aulas/guia-estelar-de-html)
+### 2. [Guia Estelar de HTML](/modulos/guia-estelar-de-html)
 
 O conteúdo esclarece plugin de preview HTML, tags, atributos, semântica, listas, abreviações, listas, representação de código, URLs, diretórios, tabelas, THead, TBody, colgroup, cabeçalho, meta, favicon, meta SEO e meta social.
 
 ---
 
-### 3. [Guia Estelar de CSS](/aulas/guia-estelar-de-css)
+### 3. [Guia Estelar de CSS](/modulos/guia-estelar-de-css)
 
 O conteúdo aborda anatomia, seletores, box model, cascata, especificidade, Shorthand, funções, DevTools e vendor prefixes.
 
