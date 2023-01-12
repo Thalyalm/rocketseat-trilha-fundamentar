@@ -35,3 +35,5 @@ Melhorando o aspecto com colgroup
 Melhorando acessibilidade
 
 ---
+
+[Voltar](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/o-guia-estelar-de-html)
