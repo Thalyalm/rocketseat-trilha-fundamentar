@@ -198,6 +198,38 @@ Caracteres reservado são caracteres usados no próprio HTML, como < > & " " ' '
 
 - [ ] Anatomia Documento
 
+Estaremos vendo nesta aula sobre a Anatomia do documento HTML e como ver o nosso HTML, além do preview.
+
+Se abrirmos o documento .html pelo navegador estaremos vendo a nossa página e se clicarmos em ver o código fonte dela, estaremos vendo o HTML que escrevemos no VSCode.
+
+Agora na parte de anatomia de um documento HTML, temos este exemplo.
+
+    <!DOCTYPE html>
+    <html>
+        <head>
+            <meta charset="utf-8">
+            <title>Anatomia do Documento</title>
+        </head>
+
+        <body>
+            <h1>Título</h1>
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis saepe similique perferendis mollitia a assumenda doloribus omnis, quidem tempore accusamus repudiandae. Accusamus, rem dolorum ad repellendus distinctio blanditiis praesentium nulla?
+            </p>
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis saepe similique perferendis mollitia a assumenda doloribus omnis, quidem tempore accusamus repudiandae. Accusamus, rem dolorum ad repellendus distinctio blanditiis praesentium nulla?
+            </p>
+        </body>
+    </html>
+
+O padrão seria esta forma.
+
+&lt!DOCTYPE html> — diz ao navegador que estamos a trabalhar com HTML 5.&lthtml>&lt/html> — o próprio HTML, elemento raiz, o inicio da cadeia.&lthead>&lt/head> — contém configurações importantes para página, mas não ainda o que o usuário vai ver.
+&ltmeta> — onde vai representar vários tipos de metadados da página.
+
+&lttitle>&lt/title> — título da página.&ltbody>&lt/body> — onde haverá conteúdo visual da página.
+Se quiser facilitar tudo digitando ! o emmet irá completar automaticamente.
+
 ---
 
 - [ ] Criando Projetos
