@@ -149,7 +149,29 @@ Por fim o posicionamento de elementos, podemos ver que a tag &lt;em&gt; &lt;/em&
 
 ---
 
-- [ ] Praticando
+:ballot_box_with_check: Praticando
+
+Vamos colocar em prática o que aprendemos nessas ultimas aulas.
+
+Escreva 2 parágrafos, dando ênfase e importância para algumas palavras , e adicione um link de saiba mais.
+
+— use a tag &lt;em&gt; &lt;/em&gt; para ênfase
+
+— use a tag &lt;strong&gt; &gt;/strong&gt; para importância
+
+— o link pode levar para o google.
+
+ex:
+
+    <p>
+        Lorem <em>ipsum</em> dolor sit amet consectetur
+        <strong>adipisicing</strong>  elit. A eligendi nesciunt mollitia <strong>provident </strong> explicabo cum, adipisci magnam? <b>Itaque</b> quae suscipit pariatur sit? Tempore odio autem repellat, voluptate eius perspiciatis similique.
+    </p>
+    <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. A eligendi nesciunt mollitia provident explicabo cum, adipisci magnam? Itaque quae suscipit pariatur sit? Tempore odio autem repellat, voluptate eius perspiciatis similique.
+    </p>
+
+    <a href="https://google.com">Saiba mais</a>
 
 ---
 
