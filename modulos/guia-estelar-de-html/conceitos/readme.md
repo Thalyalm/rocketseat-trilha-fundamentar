@@ -141,7 +141,7 @@ Aninhamento em HTML significa colocar uma tag dentro da outra, porém não é qu
         <p> texto2</p> 
     </p>
 
-Podemos ver no exemplo acima que a tag <em></em>(usada para dar enfase em um texto) é pertencente a Tag <p></p>(usada para criar um parágrafo).
+Podemos ver no exemplo acima que a tag *<em></em>* (usada para dar enfase em um texto) é pertencente a Tag <p></p>(usada para criar um parágrafo).
 
 Também é possível notar que há um fluxo, onde as tags são lidas por ordem de cima para baixo.
 
