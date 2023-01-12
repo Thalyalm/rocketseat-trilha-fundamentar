@@ -18,7 +18,9 @@ Então você irá até a parte de extensões, que fica na esquerda, sendo o últ
 
 ---
 
-- [ ] O que é HTML
+:ballot_box_with_check: O que é HTML
+
+HTML é um acrônimo para Hypertext (hipertexto) Markup (marcação) Language (linguagem), ela não é uma linguagem de programação em si, porém é uma linguagem na forma de escrever, tendo sintaxe e semântica, Hypertext é uma marcação especifica que nos leva a outro texto, isso mais no passado, agora sendo relacionado a imagens, a videos. Bastante simples usar o HTML, podemos ver ele clicando com o botão direito na pagina e selecionar a opção "view Page Source". Agora vamos ver mais sobre o HTML.
 
 ---
 
