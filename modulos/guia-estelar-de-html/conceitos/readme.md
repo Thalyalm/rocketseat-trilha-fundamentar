@@ -175,7 +175,7 @@ ex:
 
 ---
 
-- [ ] Caracteres Reservados
+:ballot_box_with_check: Caracteres Reservados
 
 Caracteres reservado são caracteres usados no próprio HTML, como < > & " " ' ', não podemos usar nas tags, pois dão erro, mesmo aparecendo na preview o navegador vai tentar ler esses caracteres de alguma forma que faça sentido. Para usarmos precisamos troca-los por outras formas de escrever.
 
