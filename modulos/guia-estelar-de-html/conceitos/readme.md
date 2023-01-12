@@ -36,7 +36,73 @@ HTML é um acrônimo para Hypertext (hipertexto) Markup (marcação) Language (l
 
 ---
 
-- [ ] Atributos Globais
+:ballot_box_with_check: Atributos Globais
+
+Atributos globais são atributos aplicáveis em todas as Tags, sendo as principais:
+
+class — além de classificar as Tags, é usada para aplicar estilo css e também para acessar com o Java Script.
+    
+    <div class="conteúdo">
+        Conteúdo
+    </div>
+
+contenteditable — usado para editar o conteúdo da página, porém não é mantido após salvar.
+   
+    <div contentedtable="true">
+        Conteúdo
+    </div>
+
+data-* — usado para expandir os tipos de atributos que podemos usar para fazer mais tarde lógica no Java Script , utilizado em css também.
+    
+    <div data-qualquercoisaaqui="">
+        Conteúdo
+    </div>
+   
+   Escrito com "-" ou tudo junto.
+
+hidden — usado para esconder uma Tag.
+    
+    <div class="carrinho" hidden>
+        Conteúdo
+    </div>
+
+id — usado apenas 1 por Tag para identificação, para também mais tarde usar no Java Script e css.
+
+    <div id="texto">
+        Conteúdo
+    </div>
+
+    <div id="texto2">
+        Conteúdo
+    </div>
+
+style — aplica a estilização na Tag, normalmente não se usa "style" dentro da Tag, mas sim em arquivos externos.
+
+    <div style="color: red">
+        Conteúdo
+     </div>
+
+tabindex — usado para ordenar o Tab na página.
+
+    <div tabindex="3">
+        Conteúdo
+    </div>
+
+    <div tabindex="1">
+        Conteúdo
+    </div>
+
+    <div tabindex="2">
+        Conteúdo
+    </div>
+
+title — serve para definir um título para a Tag, quando colocamos o mouse descansando em cima do conteúdo da página.
+
+    <di title="Definir um título">
+        Conteúdo
+    </div>
+
+Se você quiser estudar outros Atributos Globais vá ao site https://developer.mozilla.org/pt-BR/ .
 
 ---
 
