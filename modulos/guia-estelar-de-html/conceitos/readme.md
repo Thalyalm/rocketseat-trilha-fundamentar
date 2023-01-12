@@ -232,7 +232,13 @@ Se quiser facilitar tudo digitando ! o emmet irá completar automaticamente.
 
 ---
 
-- [ ] Criando Projetos
+:ballot_box_with_check: Criando Projetos
+
+Estaremos vendo como criar um projeto html.
+
+Abrindo o explorador de arquivos do seu computador, indo na parte de usuário > documentos e criará a pasta do projeto, e arrastará para o VSCode.
+
+Você pode criar arquivos, por exemplo: index.html, ou criar pastas.
 
 ---
 
