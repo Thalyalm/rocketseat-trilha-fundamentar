@@ -224,8 +224,11 @@ Agora na parte de anatomia de um documento HTML, temos este exemplo.
 
 O padrão seria esta forma.
 
-&lt;!DOCTYPE html> — diz ao navegador que estamos a trabalhar com HTML 5.&lt;html>&lt;/html> — o próprio HTML, elemento raiz, o inicio da cadeia.&lt;head>&lt;/head> — contém configurações importantes para página, mas não ainda o que o usuário vai ver.
-&ltmeta> — onde vai representar vários tipos de metadados da página.
+&lt;!DOCTYPE html> — diz ao navegador que estamos a trabalhar com HTML 5.&lt;html>&lt;/html> — o próprio HTML, elemento raiz, o inicio da cadeia.
+
+&lt;head>&lt;/head> — contém configurações importantes para página, mas não ainda o que o usuário vai ver.
+
+&lt;meta> — onde vai representar vários tipos de metadados da página.
 
 &lt;title>&lt;/title> — título da página.&lt;body>&lt;/body> — onde haverá conteúdo visual da página.
 Se quiser facilitar tudo digitando ! o emmet irá completar automaticamente.
