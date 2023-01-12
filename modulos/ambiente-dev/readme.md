@@ -11,3 +11,5 @@ O módulo propõe configurações ao computador para viabilização do desenvolv
 :ballot_box_with_check: [Ambiente dev de outro mundo](/modulos/ambiente-dev/ambiente-dev-de-outro-mundo)
 
 ---
+
+[Voltar](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos)

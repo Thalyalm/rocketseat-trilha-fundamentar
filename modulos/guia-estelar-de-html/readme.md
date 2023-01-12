@@ -19,3 +19,5 @@ O conteúdo esclarece plugin de preview HTML, tags, atributos, semântica, lista
 [Cabeçalho](/modulos/guia-estelar-de-html/cabecalho)
 
 ---
+
+[Voltar](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos)

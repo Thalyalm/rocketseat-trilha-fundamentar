@@ -11,3 +11,5 @@ O conteúdo aborda anatomia, seletores, box model, cascata, especificidade, Shor
 [O guia estelar de CSS](/modulos/guia-estelar-de-css/o-guia-estelar-de-css)
 
 ---
+
+[Voltar](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos)
