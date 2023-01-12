@@ -4,23 +4,23 @@
 
 ---
 
-Head
+- [ ] Head
 
 ---
 
-Meta
+- [ ] Meta
 
 ---
 
-Favicon
+- [ ] Favicon
 
 ---
 
-Meta SEO
+- [ ] Meta SEO
 
 ---
 
-Meta Social
+- [ ] Meta Social
 
 ---
 

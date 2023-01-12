@@ -4,67 +4,67 @@
 
 ---
 
-Abertura
+- [ ] Abertura
 
 ---
 
-Conhecendo o CSS
+- [ ] Conhecendo o CSS
 
 ---
 
-Comentários
+- [ ] Comentários
 
 ---
 
-Anatomia
+- [ ] Anatomia
 
 ---
 
-Seletores
+- [ ] Seletores
 
 ---
 
-Box model
+- [ ] Box model
 
 ---
 
-Origem do CSS
+- [ ] Origem do CSS
 
 ---
 
-A Cascata
+- [ ] A Cascata
 
 ---
 
-Especificidade
+- [ ] Especificidade
 
 ---
 
-Regra important
+- [ ] Regra important
 
 ---
 
-At rules
+- [ ] At rules
 
 ---
 
-Shorthand
+- [ ] Shorthand
 
 ---
 
-Funções
+- [ ] Funções
 
 ---
 
-DevTools
+- [ ] DevTools
 
 ---
 
-Cuidados com a escrita
+- [ ] Cuidados com a escrita
 
 ---
 
-Vendor prefixes
+- [ ] Vendor prefixes
 
 ---
 

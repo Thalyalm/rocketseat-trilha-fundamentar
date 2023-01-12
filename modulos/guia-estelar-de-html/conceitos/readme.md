@@ -4,51 +4,51 @@
 
 ---
 
-Abertura
+- [ ] Abertura
 
 ---
 
-Instalando plugin de preview HTML
+- [ ] Instalando plugin de preview HTML
 
 ---
 
-O que é HTML
+- [ ] O que é HTML
 
 ---
 
-Comentários
+- [ ] Comentários
 
 ---
 
-Anatomia das Tags
+- [ ] Anatomia das Tags
 
 ---
 
-Atributos
+- [ ] Atributos
 
 ---
 
-Atributos Globais
+- [ ] Atributos Globais
 
 ---
 
-Aninhamento Hierarquia
+- [ ] Aninhamento Hierarquia
 
 ---
 
-Praticando
+- [ ] Praticando
 
 ---
 
-Caracteres Reservados
+- [ ] Caracteres Reservados
 
 ---
 
-Anatomia Documento
+- [ ] Anatomia Documento
 
 ---
 
-Criando Projetos
+- [ ] Criando Projetos
 
 ---
 

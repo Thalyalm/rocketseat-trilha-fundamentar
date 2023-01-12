@@ -4,39 +4,39 @@
 
 ---
 
- Semântica
+ - [ ] Semântica
 
 ---
 
- Títulos e Parágrafos
+ - [ ] Títulos e Parágrafos
 
 ---
 
- Listas
+ - [ ] Listas
 
 ---
 
- Citações
+ - [ ] Citações
 
 ---
 
- Abreviações
+ - [ ] Abreviações
 
 ---
 
- Detalhes de contato
+ - [ ] Detalhes de contato
 
 ---
 
- Lista de descrição
+ - [ ] Lista de descrição
 
 ---
 
- Representação de código
+ - [ ] Representação de código
 
 ---
 
- Elementos Genéricos
+ - [ ] Elementos Genéricos
 
 ---
 
