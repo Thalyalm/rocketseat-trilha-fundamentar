@@ -63,7 +63,28 @@ Um dos principais objetivos é dar uma estruturação para o texto, para que haj
 
 ---
 
- - [ ] Citações
+ :ballot_box_with_check: Citações
+
+&lt;blockquote&gt;&lt;/blockquote&gt; — para uma citação que você queira deixa maior, tendo uma estilização mais diferente.
+&lt;code&gt;&lt;/code&gt; — mostra que é um código
+
+cite — atributo usado para citar a url.
+
+&lt;cite&gt;&lt;/cite&gt; — tag usada para colocar o citar link direto no texto.
+
+&lt;q&gt;&lt;/q&gt; — citação curtas com aspas.
+
+    <blockquote cite="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/blockquote">
+        O <strong>Elemento HTML <code>&lt;blockquote&gt;</code> </strong> (ou <em>HTML Block
+        Quotation Element</em>) indica que um texto externo foi citado.
+    </blockquote>
+
+    <p>De acordo com <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/blockquote">
+        <cite>página MDN blockquote</cite></a>:
+    </p>
+
+    <p>O elemento quote — <code>&lt;q&gt;</code> — é <q cite="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/q">usado para citações curtas que não precisam de parágrafos ou quebras de linha.</q> -- <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/q">
+    <cite>MDN q page</cite></a>.</p>
 
 ---
 
