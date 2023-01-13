@@ -12,7 +12,7 @@ Um dos principais objetivos é dar uma estruturação para o texto, para que haj
 
 ---
 
- - [ ] Títulos e Parágrafos
+:ballot_box_with_check: Títulos e Parágrafos
 
  Nesta aula estaremos aprendendo a como fazer títulos e parágrafos, para uma melhor leitura, uma melhor semântica.
 
