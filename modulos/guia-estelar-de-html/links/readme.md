@@ -40,7 +40,19 @@ Neste exemplo temos os fragmentos, com o navegador aberto, se clicarmos em qualq
 
 ---
 
-- [ ] Conteúdos dentro de elemento a
+:ballot_box_with_check: Conteúdos dentro de elemento a
+
+Estaremos vendo o que podemos colocar dentro do conteúdo do elemento <a></a>.
+
+Qualquer coisa pode ser colocado, até mesmo outras tags, e mais de uma.
+
+    <a href="http://google.com" title="Ir para google">
+        <h1>Google</h1>
+        <p>Claro que posso</p>
+        <img src="https://source.unsplash.com/random" alt="">
+    </a>
+
+Neste exemplo há até imagens.
 
 ---
 
