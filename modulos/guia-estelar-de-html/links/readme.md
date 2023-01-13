@@ -90,7 +90,11 @@ Caso você coloque um arquivo que não existe ou mesmo está no diretório errad
 
 ---
 
-- [ ] Caminhos absolutos vs relativos
+:ballot_box_with_check: Caminhos absolutos vs relativos
+
+No caminho absoluto inclui-se o protocolo e o nome de domínio e sempre apontará para o mesmo local, já que é absoluto. Como por exemplo esta URL http://www.rocketseat.com.br/projeto/index.html é absoluto(mesmo não levando a lugar nenhum, é apenas um exemplo).
+
+No caminho relativo, é relativo à página, pasta aberta, ou seja, se não tiver irá consequentemente dar erro, apontará para lugares diferentes. Como por exemplo apenas google.com.
 
 ---
 
