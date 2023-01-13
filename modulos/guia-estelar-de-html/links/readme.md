@@ -98,7 +98,7 @@ No caminho relativo, é relativo à página, pasta aberta, ou seja, se não tive
 
 ---
 
-- [ ] Exercício de apresentação
+:ballot_box_with_check: Exercício de apresentação
 
 Criando navegação entre os arquivos:
 
@@ -151,7 +151,9 @@ Atenção: Alguns computadores isso pode não funcionar, portanto, ão atenha a 
 
 ---
 
-- [ ] Exercício de resolução
+:ballot_box_with_check: Exercício de resolução
+
+Resolução da atividade
 
 ---
 
