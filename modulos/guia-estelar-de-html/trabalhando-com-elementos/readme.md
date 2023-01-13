@@ -98,7 +98,15 @@ Se colocarmos o mouse em cima da abreviação, teremos a palavra inteira.
 
 ---
 
- - [ ] Detalhes de contato
+ &lt;q&gt;&lt;/q&gt; Detalhes de contato
+
+ A tag usada para apenas colocar detalhes de contato é a tag <address></address>, não endereço em si, mas por exemplo o autor da página.
+
+    <address>
+        <p>Mayk Brito <br>
+        <strong>Campo Grande, MS</strong>
+        </p>
+    </address>
 
 ---
 
