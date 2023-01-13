@@ -66,7 +66,27 @@ No caso dos arquivos, são os seus caminhos, onde, no explorador de arquivos, um
 
 ---
 
-- [ ] Como navegar pelos diretórios
+:ballot_box_with_check: Como navegar pelos diretórios
+
+Estaremos vendo nesta aula como navegar pelos diretórios.
+
+    <a href="hyperlinks.html">arquivo na pasta anterior</a>
+    <br>
+    <a href="./urls-caminhos.html">arquivo no diretório raiz</a>
+    <br>
+    <a href="urls-caminhos.html">arquivo na mesma pasta</a>
+    <br>
+    <a href="outros/conteudo-a-element.html">arquivo na pasta outros, que está na pasta anterior</a>
+
+Para o mesmo diretório, local, raiz apenas colocamos o nome do arquivo no href.
+
+Para entrar em um diretório colocamos o nome do diretório e /, como no exemplo "outros/conteudo-a-element.html"
+
+Para sair de um diretório colocamos ../ ,ele sairá do diretório, semelhante a sair de uma caixa que está dentro de outro.
+
+E por fim o diretório raiz especificamente, usamos apenas ./ , o próprio VSCode irá completar.
+
+Caso você coloque um arquivo que não existe ou mesmo está no diretório errado, vai dar erro de não ter encontrado o arquivo.
 
 ---
 
