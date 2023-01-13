@@ -4,7 +4,7 @@
 
 ---
 
- :ballot_box_with_check: Semântica
+:ballot_box_with_check: Semântica
 
 Vamos falar de semântica em HTML.
 
