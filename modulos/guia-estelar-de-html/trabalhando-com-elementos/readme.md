@@ -88,7 +88,7 @@ cite — atributo usado para citar a url.
 
 ---
 
- - [ ] Abreviações
+ &lt;q&gt;&lt;/q&gt; Abreviações
 
  Elemento muito comum encontrado na web é a de abreviação, mas de alguma forma queremos mostrar a palavra inteira.
 
