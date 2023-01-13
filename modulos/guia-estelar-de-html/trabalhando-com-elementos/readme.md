@@ -14,7 +14,7 @@ Um dos principais objetivos é dar uma estruturação para o texto, para que haj
 
 :ballot_box_with_check: Títulos e Parágrafos
 
- Nesta aula estaremos aprendendo a como fazer títulos e parágrafos, para uma melhor leitura, uma melhor semântica.
+Nesta aula estaremos aprendendo a como fazer títulos e parágrafos, para uma melhor leitura, uma melhor semântica.
 
     <h1>Sobre mim</h1>
     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p>
@@ -43,9 +43,9 @@ Um dos principais objetivos é dar uma estruturação para o texto, para que haj
 
 ---
 
- :ballot_box_with_check: Listas
+:ballot_box_with_check: Listas
 
- Listas no HTML são feitas da seguinte forma:
+Listas no HTML são feitas da seguinte forma:
 
 &lt;li&gt;&lt;/li&gt; — colocar os elementos da lista. &lt;ul&gt;&lt;/ul&gt; — para uma lista não ordenada.&lt;ol&gt;&lt;/ol&gt; — para uma lista ordenada.
 
@@ -63,7 +63,7 @@ Um dos principais objetivos é dar uma estruturação para o texto, para que haj
 
 ---
 
- :ballot_box_with_check: Citações
+:ballot_box_with_check: Citações
 
 &lt;blockquote&gt;&lt;/blockquote&gt; — para uma citação que você queira deixa maior, tendo uma estilização mais diferente.
 &lt;code&gt;&lt;/code&gt; — mostra que é um código
@@ -88,9 +88,9 @@ cite — atributo usado para citar a url.
 
 ---
 
- :ballot_box_with_check: Abreviações
+:ballot_box_with_check: Abreviações
 
- Elemento muito comum encontrado na web é a de abreviação, mas de alguma forma queremos mostrar a palavra inteira.
+Elemento muito comum encontrado na web é a de abreviação, mas de alguma forma queremos mostrar a palavra inteira.
 
     <p>Usamos <abbr title="Hypertext Markup Language">HTML</abbr>  para estruturar nossos documentos da web.</p>
 
@@ -98,9 +98,9 @@ Se colocarmos o mouse em cima da abreviação, teremos a palavra inteira.
 
 ---
 
- :ballot_box_with_check: Detalhes de contato
+:ballot_box_with_check: Detalhes de contato
 
- A tag usada para apenas colocar detalhes de contato é a tag &lt;address&gt;&lt;/address&gt;, não endereço em si, mas por exemplo o autor da página.
+A tag usada para apenas colocar detalhes de contato é a tag &lt;address&gt;&lt;/address&gt;, não endereço em si, mas por exemplo o autor da página.
 
     <address>
         <p>Mayk Brito <br>
@@ -110,9 +110,9 @@ Se colocarmos o mouse em cima da abreviação, teremos a palavra inteira.
 
 ---
 
- :ballot_box_with_check: Lista de descrição
+:ballot_box_with_check: Lista de descrição
 
- Usado para marcar uma lista de itens e suas descrições.
+Usado para marcar uma lista de itens e suas descrições.
 
     <h2>Glossário</h2>
     <dl>
@@ -130,11 +130,32 @@ Se colocarmos o mouse em cima da abreviação, teremos a palavra inteira.
 
 ---
 
- - [ ] Representação de código
+:ballot_box_with_check: Representação de código
+
+Para representar códigos usamos as tags:
+
+&lt;code&gt;&lt;/code&gt; — muda a cor do conteúdo para representar código.
+
+&lt;pre&gt;&lt;/pre&gt; — tag para criar um bloco de código, mantém os espaços em branco.
+
+    <pre>
+        <code>
+            &lt;
+        </code>
+    </pre>
 
 ---
 
- - [ ] Elementos Genéricos
+:ballot_box_with_check: Elementos Genéricos
+
+&lt;div&gt;&lt;/div&gt; — tag usada para agrupar conteúdo.
+
+&lt;span&gt;&lt;/span&gt; — tag usada para agrupar texto, em uma ideia mais de linha.
+
+    <div class="cart">
+        <span>Camiseta</span>
+        <span>r$ 99,00</span>
+    </div>
 
 ---
 
