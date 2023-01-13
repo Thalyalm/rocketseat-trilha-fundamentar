@@ -88,7 +88,7 @@ cite — atributo usado para citar a url.
 
 ---
 
- &lt;q&gt;&lt;/q&gt; Abreviações
+ :ballot_box_with_check: Abreviações
 
  Elemento muito comum encontrado na web é a de abreviação, mas de alguma forma queremos mostrar a palavra inteira.
 
@@ -98,7 +98,7 @@ Se colocarmos o mouse em cima da abreviação, teremos a palavra inteira.
 
 ---
 
- &lt;q&gt;&lt;/q&gt; Detalhes de contato
+ :ballot_box_with_check: Detalhes de contato
 
  A tag usada para apenas colocar detalhes de contato é a tag <address></address>, não endereço em si, mas por exemplo o autor da página.
 
@@ -110,7 +110,23 @@ Se colocarmos o mouse em cima da abreviação, teremos a palavra inteira.
 
 ---
 
- - [ ] Lista de descrição
+ :ballot_box_with_check: Lista de descrição
+
+ Usado para marcar uma lista de itens e suas descrições.
+
+    <h2>Glossário</h2>
+    <dl>
+        <dt>Hypertext</dt>
+        <dd>É um hiper texto com possibilidades...</dd>
+
+        <dt>Markup</dt>
+        <dd>Marcação do texto</dd>
+
+        <dt>Languague</dt>
+        <dd>Linguagem com sua semântica e sintaxe....</dd>
+    </dl>
+
+&lt;dl&gt;&lt;/dl&gt; — tag para lista de descrições.&lt;dt&gt;&lt;/dt&gt; — tag para o termo da descrição.&lt;dd&gt;&lt;/dd&gt; — tag para descrição.
 
 ---
 
