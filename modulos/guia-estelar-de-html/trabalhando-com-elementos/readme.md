@@ -43,7 +43,23 @@ Um dos principais objetivos é dar uma estruturação para o texto, para que haj
 
 ---
 
- - [ ] Listas
+ :ballot_box_with_check: Listas
+
+ Listas no HTML são feitas da seguinte forma:
+
+&lt;li&gt;&lt;/li&gt; — colocar os elementos da lista. &lt;ul&gt;&lt;/ul&gt; — para uma lista não ordenada.&lt;ol&gt;&lt;/ol&gt; — para uma lista ordenada.
+
+    <h1>Suco detox</h1>
+    <h2>Ingredientes:</h2>
+
+    <ul>
+        <li>3 folhas de couve;</li>
+        <li>1 laranjas;</li>
+        <li>1 pedacinho gengibre;</li>
+        <li>300 ml de água;</li>
+        <li>Adoçante a gosto;</li>
+        <li>Gelo a gosto.</li>
+    </ul>
 
 ---
 
