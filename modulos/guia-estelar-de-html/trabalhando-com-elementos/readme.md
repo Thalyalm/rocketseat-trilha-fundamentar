@@ -100,7 +100,7 @@ Se colocarmos o mouse em cima da abreviação, teremos a palavra inteira.
 
  :ballot_box_with_check: Detalhes de contato
 
- A tag usada para apenas colocar detalhes de contato é a tag <address></address>, não endereço em si, mas por exemplo o autor da página.
+ A tag usada para apenas colocar detalhes de contato é a tag &lt;address&gt;&lt;/address&gt;, não endereço em si, mas por exemplo o autor da página.
 
     <address>
         <p>Mayk Brito <br>
