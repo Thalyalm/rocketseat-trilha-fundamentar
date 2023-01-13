@@ -12,7 +12,7 @@ O conteúdo esclarece plugin de preview HTML, tags, atributos, semântica, lista
 
 :ballot_box_with_check: [Trabalhando com Elementos](/modulos/guia-estelar-de-html/trabalhando-com-elementos)
 
-- [ ] [Links](/modulos/guia-estelar-de-html/links)
+:ballot_box_with_check: [Links](/modulos/guia-estelar-de-html/links)
 
 - [ ] [Tabelas](/modulos/guia-estelar-de-html/tabelas)
 
