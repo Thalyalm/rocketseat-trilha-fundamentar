@@ -63,7 +63,8 @@ Por fim poderemos colocar a tag &lt;caption&gt;&lt;/caption&gt; para descrever s
 
 ---
 
-- [ ] Tabela básica
+
+:ballot_box_with_check: Tabela básica
 
 Para fazer uma tabela básica, apenas precisaremos da tag &lt;table&gt;&lt;/table>, dentro dela iremos usar a tag &lt;tr&gt;&lt;/tr&gt;(table row) para criar uma linha na tabela, e dentro dela usaremos a tag &lt;th&gt;&lt;/th&gt; para o cabeçalho.
 
