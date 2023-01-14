@@ -16,7 +16,7 @@ O conteúdo esclarece plugin de preview HTML, tags, atributos, semântica, lista
 
 :ballot_box_with_check: [Tabelas](/modulos/guia-estelar-de-html/tabelas)
 
-- [ ] [Cabeçalho](/modulos/guia-estelar-de-html/cabecalho)
+:ballot_box_with_check: [Cabeçalho](/modulos/guia-estelar-de-html/cabecalho)
 
 ---
 
