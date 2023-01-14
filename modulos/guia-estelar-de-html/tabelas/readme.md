@@ -4,7 +4,7 @@
 
 ---
 
-- [ ] Tabelas
+:ballot_box_with_check: Tabelas
 
 Estaremos vendo agora sobre o elemento &lt;table&gt;, que ajuda na organização de dados, criando tabelas.
 
