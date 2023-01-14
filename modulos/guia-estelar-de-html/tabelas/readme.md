@@ -9,12 +9,15 @@
 Estaremos vendo agora sobre o elemento &lt;table&gt;, que ajuda na organização de dados, criando tabelas.
 
 Prós
+    Visualização de dados via linhas e colunas.
+    Boa acessibilidade para leitura dos dados 
 
-Visualização de dados via linhas e colunas.
-Boa acessibilidade para leitura dos dados Contras
-Pouco flexível
-Precisa de estilização para melhor visualização Não usar
-Para criar seu layout
+Contras
+    Pouco flexível
+    Precisa de estilização para melhor visualização 
+
+Não usar
+    Para criar seu layout
 
 ---
 
