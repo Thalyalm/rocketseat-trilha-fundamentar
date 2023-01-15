@@ -80,4 +80,4 @@ CSS não é uma linguagem de programação, é uma linguagem style sheet, pois m
 
 ---
 
-[Voltar](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/o-guia-estelar-de-css)
+[Voltar](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/guia-estelar-de-css)
