@@ -1,0 +1,24 @@
+/*
+    Anatomia
+
+    - Selector
+    - Declaration
+    - Propertiese
+    - Property Value
+*/
+
+h1 { 
+    color: blue; 
+    font-size: 60px;
+    background: gray;
+}
+
+/*
+    - Selector = h1
+    - Declaration {}
+    - Propertiese = color, font-size, background
+    - Property Value = blue, 60px, gray
+*/
+
+
+
