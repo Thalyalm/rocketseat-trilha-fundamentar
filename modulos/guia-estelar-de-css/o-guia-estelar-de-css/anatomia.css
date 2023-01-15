@@ -1,10 +1,10 @@
 /*
     Anatomia
 
-    - Selector
-    - Declaration
-    - Propertiese
-    - Property Value
+    - Selector 'h1'
+    - Declaration '{}'
+    - Propertiese 'color, font-size, background'
+    - Property Value 'blue, 60px, gray'
 */
 
 h1 { 
@@ -12,13 +12,3 @@ h1 {
     font-size: 60px;
     background: gray;
 }
-
-/*
-    - Selector = h1
-    - Declaration {}
-    - Propertiese = color, font-size, background
-    - Property Value = blue, 60px, gray
-*/
-
-
-
