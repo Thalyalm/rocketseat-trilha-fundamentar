@@ -19,3 +19,21 @@ body {
     margin: 0 auto;
     max-width: 33em;
 }
+
+
+@media (min-width: 70em) {
+    /* Comentário */
+    body {
+        font-size: 130%;
+    }
+}
+
+/* VocÊ poderá usar para desabilitar partes do seu código */
+
+/*.special {
+    color: red;
+}*/
+
+p {
+    color: blue;
+}
