@@ -28,133 +28,27 @@ Aplicações modernas não utilizam apenas uma unidade de medida e, por isso, va
 
 ---
 
-### 5. Uma caixa dentro da outra
+### 5. [Uma caixa dentro da outra]()
 
 Um dos conceitos mais importantes do CSS, o Box Model, traz sentido para como muitas regras de posicionamento funcionam.
 
-- [ ] Uma caixa dentro da outra
-
-    - [ ] Abertura
-
-    - [ ] Introdução
-
-    - [ ] Box Sizing
-
-    - [ ] Display-block-inline
-
-    - [ ] Margin
-
-    - [ ] Padding
-
-    - [ ] Border-outline
-
 ---
 
-### 6. Agora sim, cores
+### 6. [Agora sim, cores]()
 
 Vamos dar mais vida à nossa página. Conheceremos mais sobre cores, hexadecimal, rgb, hsl, background, além das imagens de fundo.
 
-- [ ] Cores
-
-    - [ ] Abertura
-
-    - [ ] Introdução
-
-    - [ ] Keyword named values
-
-    - [ ] Hexadecimal
-
-    - [ ] RGB
-
-    - [ ] HSL
-
-    - [ ] Global values
-
-    - [ ] Conclusão
-
-- [ ] Background
-
-    - [ ] Introdução
-
-    - [ ] Background-color
-
-    - [ ] Background-image-repeat
-
-    - [ ] Background-position
-
-    - [ ] Background-size
-
-    - [ ] Background-origin-clip
-
-    - [ ] Background-attachment
-
-    - [ ] Shorthand
-
-    - [ ] Gradient
-
-    - [ ] Múltiplos valores
-
-    - [ ] Experimentar
-
 ---
 
-### 7. Posso ver e ouvir o HTML
+### 7. [Posso ver e ouvir o HTML]()
 
 Existem muitos elementos de mídia no HTML incluindo áudio e vídeo e chegou o momento de vermos todas possibilidades deles.
 
-- [ ] Audio e Vídeo
-
-    - [ ] Abertura
-
-    - [ ] Vídeo
-
-    - [ ] Áudio
-
-    - [ ] Iframe
-
-- [ ] Images
-
-    - [ ] Images
-
-    - [ ] Praticando images
-
-    - [ ] Background image
-
-    - [ ] Figures
-
-    - [ ] Intro de SVG
-
-    - [ ] SVG na prática    
-
 ---
 
-### 8. Posicionando foguetes
+### 8. [Posicionando foguetes]()
 
 Você precisa saber onde os elementos da sua página deverão ser posicionados. Por isso, conhecer como o CSS trabalha com o layout, ou o posicionamento dos elementos na sua página, é essencial.
-
-- [ ] Posicionando foguetes
-
-    - [ ] Abertura
-
-    - [ ] Layouts
-
-    - [ ] Position
-
-    - [ ] Static
-
-    - [ ] Relative
-
-    - [ ] Absolute
-
-    - [ ] Fixed
-
-    - [ ] Element Stacking
-
-    - [ ] Flex
-
-    - [ ] Grid
-
-    - [ ] Grid ou Flexbox
 
 ---
 
