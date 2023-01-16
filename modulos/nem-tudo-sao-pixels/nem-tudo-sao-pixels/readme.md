@@ -60,7 +60,6 @@ Distâncias absolutas &lt;length&gt;
 
     São fixas e não alteram seu valor.
 
-
     | Unidade  | Nome                | Equivalência         |
     |----------|---------------------|----------------------|
     | cm       | Centímetros         | 1cm = 96px/2.54      | 
@@ -76,7 +75,6 @@ Distâncias relativas
     São relativas a um outro valor, pode ser o elemento pai, ou root, ou o tamanho da tela.
 
     Benefício: Maior adaptação aos diferentes tipos de tela.
-
 
     | Unidade  | Relativo a                                    |
     |----------|-----------------------------------------------|
@@ -94,7 +92,7 @@ Normalmente o tamanho da font padrão do navegador é de 16px e para mudar esse 
     html {
         font-size: 18px;
     }
-    
+
 O viewport é a parte da tela que está sendo exibida. No caso dos navegadores web, é o que é exibido na janela/tela dodocumento. Conteúdos que estão fora do viewport só serão exibidos quando feito um scroll da área de visualização.
 
 ---
