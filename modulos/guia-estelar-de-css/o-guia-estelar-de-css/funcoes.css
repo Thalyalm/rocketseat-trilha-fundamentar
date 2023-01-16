@@ -9,7 +9,7 @@
 
 @import url(http://urlaqui.com/style.css);
 
-tag {
+p {
     color: rgb(0, 0, 0);
     width: calc(100% - 10px);
 }
