@@ -58,69 +58,9 @@ Não adianta a aplicação estar linda, mas usando Comic Sans como fonte e, por 
 
 ---
 
-### 10. Formulários de outro planeta]()
+### 10. [Formulários de outro planeta]()
 
 A tag form no HTML é a maneira mais tradicional de interagir com o usuário da aplicação e é incrível o que é possível com esse elemento.
-
-- [ ] Introdução
-
-    - [ ] Abertura
-
-    - [ ] O que são forms
-
-- [ ] Estrutura
-
-    - [ ] Form
-
-    - [ ] Fieldset legend
-
-    - [ ] Label
-
-    - [ ] Button
-
-    - [ ] Datalist
-
-- [ ] Tags de Entrada de Dados
-
-    - [ ] Input
-
-    - [ ] Input atributos
-
-    - [ ] Password
-
-    - [ ] Email
-
-    - [ ] URL
-
-    - [ ] File
-
-    - [ ] Color
-
-    - [ ] Checkbox
-
-    - [ ] Hidden
-
-    - [ ] Radio
-
-    - [ ] Textarea
-
-    - [ ] Select
-
-    - [ ] Optgroup
-
-    - [ ] Search
-
-    - [ ] Number
-
-    - [ ] Range
-
-    - [ ] Data e hora
-
-- [ ] Criando um formulário
-
-    - [ ] Desenhando
-
-    - [ ] Exemplo de formulário de contato
 
 ---
 
