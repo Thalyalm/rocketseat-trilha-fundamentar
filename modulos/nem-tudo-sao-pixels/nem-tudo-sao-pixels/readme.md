@@ -85,19 +85,17 @@ Distâncias relativas
     | vw       | 1% da viewport wid                            |  
     | vh       | 1% da viewport height                         |
 
-    Normalmente o tamanho da font padrão do navegador é de 16px e para mudar esse valor temos que fazer a alteração no root ou no elemento html.
+Normalmente o tamanho da font padrão do navegador é de 16px e para mudar esse valor temos que fazer a alteração no root ouno elemento html.
 
-        :root {
-            font-size: 18px;
-        }
-
-        /* OU */
-
-        html {
-            font-size: 18px;
-        }
-
-    O viewport é a parte da tela que está sendo exibida. No caso dos navegadores web, é o que é exibido na janela/tela do documento. Conteúdos que estão fora do viewport só serão exibidos quando feito um scroll da área de visualização.
+    :root {
+        font-size: 18px;
+    }
+    /* OU */
+    html {
+        font-size: 18px;
+    }
+    
+O viewport é a parte da tela que está sendo exibida. No caso dos navegadores web, é o que é exibido na janela/tela dodocumento. Conteúdos que estão fora do viewport só serão exibidos quando feito um scroll da área de visualização.
 
 ---
 
