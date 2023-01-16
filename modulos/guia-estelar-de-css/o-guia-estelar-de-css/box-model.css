@@ -11,7 +11,7 @@
     - Quase todo elemento de uma página é considerado uma caixa: Posicionamentos, tamanhos, espaçamentos, bordas, cores, então, em suma, elementos HTML são caixas, assim como quase tudo no CSS.
 */
 
-h1 {
+p {
     border: 1px solid red;
     margin: 200px;
     padding: 60px;
