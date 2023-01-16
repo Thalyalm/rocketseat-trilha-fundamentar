@@ -5,6 +5,10 @@
 
 ## Prática
 - Como conhecer e estudar os valores ma documentação?
+
 - <color> <length>
     
 - Os termos podem varias. 'values' ou 'data types'
+
+
+
