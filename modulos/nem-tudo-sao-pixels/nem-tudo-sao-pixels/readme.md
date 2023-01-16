@@ -36,14 +36,14 @@ Documentação MDN: https://developer.mozilla.org/en-US/
 
 Nessa aula vamos falar sobre tipos numéricos.
 
-Tipos numéricos
+Tipos numéricos:
 
     <integer> - número inteiro como -10 ou 223
     <number> - número decimal como -2.4, 64 ou 0.234
     <dimension> - é um <number> com uma unidade junto: 90deg, 2s, 8px
     <percentage> - representa uma fração de outro número: 50%
 
-Unidades comuns
+Unidades comuns:
 
     <length> - é um dos mais usados no CSS e representa um valor de distância: px, em, vw
     <angle> - representa um ângulo: deg, rad, turn
@@ -56,7 +56,7 @@ Unidades comuns
 
 Nessa aula vamos entender sobre distâncias absolutas e relativas.
 
-Distâncias absolutas &lt;length&gt;
+Distâncias absolutas &lt;length&gt;:
 
     São fixas e não alteram seu valor.
 
@@ -70,7 +70,7 @@ Distâncias absolutas &lt;length&gt;
 
     *não é recomendado usar cm
 
-Distâncias relativas
+Distâncias relativas:
 
     São relativas a um outro valor, pode ser o elemento pai, ou root, ou o tamanho da tela.
 
@@ -99,9 +99,47 @@ O viewport é a parte da tela que está sendo exibida. No caso dos navegadores w
 
 :ballot_box_with_check: Porcentagens
 
+As porcentagens são valores bem flexíveis
+
+Em muitos casos é tratado da mesma maneira que as distâncias &lt;length&gt;
+
+Sempre será relativo a algum valor
+
+Exemplo:
+
+    Relativo ao elemento pai
+
+    <ul>
+        <li>One</li>
+        <li>Two</li>
+        <li>Three
+            <ul>
+                <li>Three A</li>
+                <li>Three B</li>
+                <ul>
+                    <li>Three B 2</li>
+                </ul>
+            </ul>
+        </li>
+    </ul>
+
+    li {
+        font-size: 80%;
+    }
+
 ---
 
 :ballot_box_with_check: Position
+
+&lt;position&gt;
+
+Representa um conjunto de coordenadas 2D:
+    
+    top, right, bottom, left e center
+
+Usado para alguns tipos de propriedades como o background-position
+
+Não confundir com a propriedade position
 
 ---
 
