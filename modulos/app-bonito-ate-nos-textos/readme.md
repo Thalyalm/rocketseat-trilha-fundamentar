@@ -4,13 +4,13 @@
 
 ---
 
-### 9. App bonito, até nos textos]()
+### 9. App bonito, até nos textos
 
 Não adianta a aplicação estar linda, mas usando Comic Sans como fonte e, por isso, vamos aprender sobre tipografia na web com CSS.
 
-- [ ] [Trabalhando com fontes]()
+- [ ] [Trabalhando com fontes](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/app-bonito-ate-nos-textos/trabalhando-com-fontes)
 
-- [ ] [Mais estilos para os textos]()
+- [ ] [Mais estilos para os textos](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/app-bonito-ate-nos-textos/trabalhando-com-fontes)
 
 ---
 

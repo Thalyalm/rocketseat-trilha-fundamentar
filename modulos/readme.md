@@ -52,7 +52,7 @@ Você precisa saber onde os elementos da sua página deverão ser posicionados. 
 
 ---
 
-### 9. [App bonito, até nos textos]()
+### 9. [App bonito, até nos textos](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/app-bonito-ate-nos-textos)
 
 Não adianta a aplicação estar linda, mas usando Comic Sans como fonte e, por isso, vamos aprender sobre tipografia na web com CSS.
 
