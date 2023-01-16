@@ -158,7 +158,7 @@ Não é recomendado seu uso, pois leva um pouco mais de tempo do que através da
 
 ---
 
-- [ ] A Cascata
+:ballot_box_with_check: A Cascata
 
 A escolha do browser de qual regra aplicar, caso haja muitas regras para o mesmo elemento.
 
