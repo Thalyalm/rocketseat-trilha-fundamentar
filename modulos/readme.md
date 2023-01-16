@@ -58,7 +58,7 @@ Não adianta a aplicação estar linda, mas usando Comic Sans como fonte e, por 
 
 ---
 
-### 10. [Formulários de outro planeta]()
+### 10. [Formulários de outro planeta](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/formularios-de-outro-planeta)
 
 A tag form no HTML é a maneira mais tradicional de interagir com o usuário da aplicação e é incrível o que é possível com esse elemento.
 

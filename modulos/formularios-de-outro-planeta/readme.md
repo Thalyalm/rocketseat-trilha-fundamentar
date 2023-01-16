@@ -8,13 +8,13 @@
 
 A tag form no HTML é a maneira mais tradicional de interagir com o usuário da aplicação e é incrível o que é possível com esse elemento.
 
-- [ ] [Introdução]()
+- [ ] [Introdução](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/formularios-de-outro-planeta/introducao)
 
-- [ ] [Estrutura]()
+- [ ] [Estrutura](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/formularios-de-outro-planeta/estrutura)
 
-- [ ] [Tags de Entrada de Dados]()
+- [ ] [Tags de Entrada de Dados](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/formularios-de-outro-planeta/tags-de-entrada-de-dados)
 
-- [ ] [Criando um formulário]()
+- [ ] [Criando um formulário](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/formularios-de-outro-planeta/criando-um-formulario)
 
 ---
 
