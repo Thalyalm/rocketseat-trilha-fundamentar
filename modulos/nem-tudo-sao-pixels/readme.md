@@ -4,11 +4,11 @@
 
 ---
 
-### 3. Guia Estelar de CSS
+### 4. Nem tudo são Pixels
 
-O conteúdo aborda anatomia, seletores, box model, cascata, especificidade, Shorthand, funções, DevTools e vendor prefixes.
+Aplicações modernas não utilizam apenas uma unidade de medida e, por isso, vamos aprender sobre todas unidades e possibilidades.
 
-:ballot_box_with_check: [O guia estelar de CSS](/modulos/guia-estelar-de-css/o-guia-estelar-de-css)
+- [ ] [Nem tudo são pixels]()
 
 ---
 
