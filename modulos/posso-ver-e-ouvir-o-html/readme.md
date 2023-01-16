@@ -8,9 +8,9 @@
 
 Existem muitos elementos de mídia no HTML incluindo áudio e vídeo e chegou o momento de vermos todas possibilidades deles.
 
-- [ ] Audio e Vídeo
+- [ ] [Audio e Vídeo](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/posso-ver-e-ouvir-o-html/audio-e-video)
 
-- [ ] Images
+- [ ] [Images](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/posso-ver-e-ouvir-o-html/images)
 
 ---
 
