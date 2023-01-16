@@ -16,7 +16,7 @@ O conteúdo esclarece plugin de preview HTML, tags, atributos, semântica, lista
 
 ---
 
-### 3. [Guia Estelar de CSS](/modulos/guia-estelar-de-css)
+### :ballot_box_with_check: 3. [Guia Estelar de CSS](/modulos/guia-estelar-de-css)
 
 O conteúdo aborda anatomia, seletores, box model, cascata, especificidade, Shorthand, funções, DevTools e vendor prefixes.
 
