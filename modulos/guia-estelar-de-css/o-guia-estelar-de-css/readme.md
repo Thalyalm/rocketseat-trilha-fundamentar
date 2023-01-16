@@ -247,7 +247,7 @@ Por fim, geralmente, a ordem descrita não importa, mas, caso haja muitas propri
 
 ---
 
-- [ ] Funções
+:ballot_box_with_check: Funções
 
 Um tipo de valor existente no CSS, é estruturado com um nome seguido de abre e fecha parênteses.
 
