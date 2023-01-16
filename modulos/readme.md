@@ -52,45 +52,13 @@ Você precisa saber onde os elementos da sua página deverão ser posicionados. 
 
 ---
 
-### 9. App bonito, até nos textos
+### 9. [App bonito, até nos textos]()
 
 Não adianta a aplicação estar linda, mas usando Comic Sans como fonte e, por isso, vamos aprender sobre tipografia na web com CSS.
 
-- [ ] Trabalhando com fontes
-
-    - [ ] Abertura
-
-    - [ ] Introdução font-properties
-
-    - [ ] Font-family
-
-    - [ ] Font-weight
-
-    - [ ] Font-style
-
-    - [ ] Font-size
-
-    - [ ] Web-fonts
-
-- [ ] Mais estilos para os textos
-
-    - [ ] Font-variant e font-stretch
-
-    - [ ] Letter e word-spacing
-
-    - [ ] Line-height e text-transform
-
-    - [ ] Text-decoration
-
-    - [ ] Text-align
-
-    - [ ] Text-shadow
-
-    - [ ] Shorthand
-
 ---
 
-### 10. Formulários de outro planeta
+### 10. Formulários de outro planeta]()
 
 A tag form no HTML é a maneira mais tradicional de interagir com o usuário da aplicação e é incrível o que é possível com esse elemento.
 
