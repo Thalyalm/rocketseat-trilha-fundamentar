@@ -22,7 +22,7 @@ O conteúdo aborda anatomia, seletores, box model, cascata, especificidade, Shor
 
 ---
 
-### 4. Nem tudo são Pixels
+### 4. [Nem tudo são Pixels](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/nem-tudo-sao-pixels)
 
 Aplicações modernas não utilizam apenas uma unidade de medida e, por isso, vamos aprender sobre todas unidades e possibilidades.
 
