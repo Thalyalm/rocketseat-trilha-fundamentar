@@ -18,4 +18,4 @@ A tag form no HTML é a maneira mais tradicional de interagir com o usuário da 
 
 ---
 
-[Voltar](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos) /
+[Voltar](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos)
