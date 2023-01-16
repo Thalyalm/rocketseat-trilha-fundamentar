@@ -265,11 +265,30 @@ Uma das ferramentas mais importantes para o desenvolvedor CSS é o DevTools (do 
 
 ---
 
-- [ ] Cuidados com a escrita
+:ballot_box_with_check: Cuidados com a escrita
+
+É importante prestar atenção à sua escrita do CSS, identar seu código para facilitar a leitura, e mais importante, manter tudo organizado e funcionando!
 
 ---
 
-- [ ] Vendor prefixes
+:ballot_box_with_check: Vendor prefixes
+
+São coisas que permitem que browsers adiocionem features a fim de colocar em uso alguma novidade que vemos no CSS.
+
+Exemplos:
+
+    p {
+        -webkit-background-clip: text; /*Chrome, Safari, iOS e Android*/
+        -moz-background-clip: text; /* Mozilla (Firefox) */
+        -ms-background-clip: text; /* Internet Explorer ou Edge*/
+        -o-background-clip: text; /* Opera */
+    }
+
+Você também pode consultar se a feature pode ser utilizada através dos sites:
+
+https://ireade.github.io/which-vendor-prefix
+
+https://caniuse.com
 
 ---
 
