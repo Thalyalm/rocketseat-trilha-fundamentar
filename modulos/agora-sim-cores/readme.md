@@ -13,3 +13,5 @@ Vamos dar mais vida à nossa página. Conheceremos mais sobre cores, hexadecimal
 - [ ] Background
 
 ---
+
+[Voltar](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos)

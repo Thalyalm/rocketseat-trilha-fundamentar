@@ -10,4 +10,8 @@ Um dos conceitos mais importantes do CSS, o Box Model, traz sentido para como mu
 
 ---
 
-[Voltar]()
+- [] [Uma caixa dentro da outra](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/uma-caixa-dentro-da-outra/uma-caixa-dentro-da-outra)
+
+---
+
+[Voltar](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos)

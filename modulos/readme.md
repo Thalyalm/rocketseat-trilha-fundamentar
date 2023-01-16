@@ -28,25 +28,25 @@ Aplicações modernas não utilizam apenas uma unidade de medida e, por isso, va
 
 ---
 
-### 5. [Uma caixa dentro da outra]()
+### 5. [Uma caixa dentro da outra](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/uma-caixa-dentro-da-outra)
 
 Um dos conceitos mais importantes do CSS, o Box Model, traz sentido para como muitas regras de posicionamento funcionam.
 
 ---
 
-### 6. [Agora sim, cores]()
+### 6. [Agora sim, cores](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/agora-sim-cores)
 
 Vamos dar mais vida à nossa página. Conheceremos mais sobre cores, hexadecimal, rgb, hsl, background, além das imagens de fundo.
 
 ---
 
-### 7. [Posso ver e ouvir o HTML]()
+### 7. [Posso ver e ouvir o HTML](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/posso-ver-e-ouvir-o-html)
 
 Existem muitos elementos de mídia no HTML incluindo áudio e vídeo e chegou o momento de vermos todas possibilidades deles.
 
 ---
 
-### 8. [Posicionando foguetes]()
+### 8. [Posicionando foguetes](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/posicionando-foguetes)
 
 Você precisa saber onde os elementos da sua página deverão ser posicionados. Por isso, conhecer como o CSS trabalha com o layout, ou o posicionamento dos elementos na sua página, é essencial.
 
