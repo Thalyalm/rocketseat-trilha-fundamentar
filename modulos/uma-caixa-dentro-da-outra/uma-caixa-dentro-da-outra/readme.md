@@ -134,7 +134,7 @@ https://app.rocketseat.com.br/node/uma-caixa-dentro-da-outra/lesson/box-sizing
 
 ---
 
-- [ ] Border-outline
+:ballot_box_with_check: Border-outline
 
 São as bordas da caixa
 
