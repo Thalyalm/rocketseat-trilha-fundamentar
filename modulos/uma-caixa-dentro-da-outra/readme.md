@@ -1,5 +1,5 @@
 [Início](https://github.com/Thalyalm/rocketseat-trilha-fundamentar) /
-[Módulos](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos) /
+[Módulos](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/readme.md) /
 [Certificado](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/certificado)
 
 ---
@@ -10,8 +10,8 @@ Um dos conceitos mais importantes do CSS, o Box Model, traz sentido para como mu
 
 ---
 
-- [ ] [Uma caixa dentro da outra](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/uma-caixa-dentro-da-outra/uma-caixa-dentro-da-outra)
+- [ ] [Uma caixa dentro da outra](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/uma-caixa-dentro-da-outra/uma-caixa-dentro-da-outra/readme.md)
 
 ---
 
-[Voltar](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos)
+[Voltar](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/readme.md)

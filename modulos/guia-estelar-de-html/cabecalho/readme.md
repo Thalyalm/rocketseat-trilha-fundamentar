@@ -1,5 +1,5 @@
 [Início](https://github.com/Thalyalm/rocketseat-trilha-fundamentar) /
-[Módulos](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos) /
+[Módulos](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/readme.md) /
 [Certificado](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/certificado)
 
 ---
@@ -107,4 +107,4 @@ O Twitter usa o atributo name diferente do Facebook que resolveu usar o property
 
 ---
 
-[Voltar](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/guia-estelar-de-html)
+[Voltar](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/guia-estelar-de-html/readme.md)

@@ -1,5 +1,5 @@
 [Início](https://github.com/Thalyalm/rocketseat-trilha-fundamentar) /
-[Módulos](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos) /
+[Módulos](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/readme.md) /
 [Certificado](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/certificado)
 
 ---
@@ -174,4 +174,4 @@ Identificadores: podemos ter nomes de cores como red, black, gold
 
 ---
 
-[Voltar](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/nem-tudo-sao-pixels)
+[Voltar](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/nem-tudo-sao-pixels/readme.md)

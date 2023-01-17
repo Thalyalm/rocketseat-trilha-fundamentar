@@ -1,5 +1,5 @@
 [Início](https://github.com/Thalyalm/rocketseat-trilha-fundamentar) /
-[Módulos](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos) /
+[Módulos](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/readme.md) /
 [Certificado](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/certificado)
 
 ---
@@ -8,10 +8,10 @@
 
 Existem muitos elementos de mídia no HTML incluindo áudio e vídeo e chegou o momento de vermos todas possibilidades deles.
 
-- [ ] [Áudio e Vídeo](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/posso-ver-e-ouvir-o-html/audio-e-video)
+- [ ] [Áudio e Vídeo](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/posso-ver-e-ouvir-o-html/audio-e-video/readme.md)
 
-- [ ] [Images](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/posso-ver-e-ouvir-o-html/images)
+- [ ] [Images](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/posso-ver-e-ouvir-o-html/images/readme.md)
 
 ---
 
-[Voltar](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos)
+[Voltar](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/readme.md)

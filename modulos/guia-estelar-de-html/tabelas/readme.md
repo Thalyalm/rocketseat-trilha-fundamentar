@@ -1,5 +1,5 @@
 [Início](https://github.com/Thalyalm/rocketseat-trilha-fundamentar) /
-[Módulos](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos) /
+[Módulos](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/readme.md) /
 [Certificado](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/certificado)
 
 ---
@@ -265,4 +265,4 @@ Estaremos usando o atributo scope, que serve permitir que essa acessibilidade sa
 
 ---
 
-[Voltar](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/guia-estelar-de-html)
+[Voltar](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/guia-estelar-de-html/readme.md)

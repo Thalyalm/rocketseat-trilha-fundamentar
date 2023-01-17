@@ -1,5 +1,5 @@
 [Início](https://github.com/Thalyalm/rocketseat-trilha-fundamentar) /
-[Módulos](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos) /
+[Módulos](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/readme.md) /
 [Certificado](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/certificado)
 
 ---
@@ -8,14 +8,14 @@
 
 A tag form no HTML é a maneira mais tradicional de interagir com o usuário da aplicação e é incrível o que é possível com esse elemento.
 
-- [ ] [Introdução](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/formularios-de-outro-planeta/introducao)
+- [ ] [Introdução](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/formularios-de-outro-planeta/introducao/readme.md)
 
-- [ ] [Estrutura](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/formularios-de-outro-planeta/estrutura)
+- [ ] [Estrutura](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/formularios-de-outro-planeta/estrutura/readme.md)
 
-- [ ] [Tags de Entrada de Dados](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/formularios-de-outro-planeta/tags-de-entrada-de-dados)
+- [ ] [Tags de Entrada de Dados](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/formularios-de-outro-planeta/tags-de-entrada-de-dados/readme.md)
 
-- [ ] [Criando um formulário](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/formularios-de-outro-planeta/criando-um-formulario)
+- [ ] [Criando um formulário](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/formularios-de-outro-planeta/criando-um-formulario/readme.md)
 
 ---
 
-[Voltar](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos)
+[Voltar](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/readme.md)

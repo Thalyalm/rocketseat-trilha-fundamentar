@@ -1,64 +1,64 @@
 [Início](https://github.com/Thalyalm/rocketseat-trilha-fundamentar) /
-[Módulos](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos) /
+[Módulos](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/readme.md) /
 [Certificado](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/certificado)
 
 ---
 
-### :ballot_box_with_check: 1. [Ambiente Dev](/modulos/ambiente-dev)
+### :ballot_box_with_check: 1. [Ambiente Dev](/modulos/ambiente-dev/readme.md)
 
 O módulo propõe configurações ao computador para viabilização do desenvolvimento de aplicações web, com guias para VSCode e Chrome.
 
 ---
 
-### :ballot_box_with_check: 2. [Guia Estelar de HTML](/modulos/guia-estelar-de-html)
+### :ballot_box_with_check: 2. [Guia Estelar de HTML](/modulos/guia-estelar-de-html/readme.md)
 
 O conteúdo esclarece plugin de preview HTML, tags, atributos, semântica, listas, abreviações, listas, representação de código, URLs, diretórios, tabelas, THead, TBody, colgroup, cabeçalho, meta, favicon, meta SEO e meta social.
 
 ---
 
-### :ballot_box_with_check: 3. [Guia Estelar de CSS](/modulos/guia-estelar-de-css)
+### :ballot_box_with_check: 3. [Guia Estelar de CSS](/modulos/guia-estelar-de-css/readme.md)
 
 O conteúdo aborda anatomia, seletores, box model, cascata, especificidade, Shorthand, funções, DevTools e vendor prefixes.
 
 ---
 
-### :ballot_box_with_check: 4. [Nem tudo são Pixels](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/nem-tudo-sao-pixels)
+### :ballot_box_with_check: 4. [Nem tudo são Pixels](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/nem-tudo-sao-pixels/readme.md)
 
 Aplicações modernas não utilizam apenas uma unidade de medida e, por isso, vamos aprender sobre todas unidades e possibilidades.
 
 ---
 
-### 5. [Uma caixa dentro da outra](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/uma-caixa-dentro-da-outra)
+### 5. [Uma caixa dentro da outra](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/uma-caixa-dentro-da-outra/readme.md)
 
 Um dos conceitos mais importantes do CSS, o Box Model, traz sentido para como muitas regras de posicionamento funcionam.
 
 ---
 
-### 6. [Agora sim, cores](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/agora-sim-cores)
+### 6. [Agora sim, cores](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/agora-sim-cores/readme.md)
 
 Vamos dar mais vida à nossa página. Conheceremos mais sobre cores, hexadecimal, rgb, hsl, background, além das imagens de fundo.
 
 ---
 
-### 7. [Posso ver e ouvir o HTML](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/posso-ver-e-ouvir-o-html)
+### 7. [Posso ver e ouvir o HTML](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/posso-ver-e-ouvir-o-html/readme.md)
 
 Existem muitos elementos de mídia no HTML incluindo áudio e vídeo e chegou o momento de vermos todas possibilidades deles.
 
 ---
 
-### 8. [Posicionando foguetes](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/posicionando-foguetes)
+### 8. [Posicionando foguetes](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/posicionando-foguetes/readme.md)
 
 Você precisa saber onde os elementos da sua página deverão ser posicionados. Por isso, conhecer como o CSS trabalha com o layout, ou o posicionamento dos elementos na sua página, é essencial.
 
 ---
 
-### 9. [App bonito, até nos textos](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/app-bonito-ate-nos-textos)
+### 9. [App bonito, até nos textos](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/app-bonito-ate-nos-textos/readme.md)
 
 Não adianta a aplicação estar linda, mas usando Comic Sans como fonte e, por isso, vamos aprender sobre tipografia na web com CSS.
 
 ---
 
-### 10. [Formulários de outro planeta](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/formularios-de-outro-planeta)
+### 10. [Formulários de outro planeta](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/formularios-de-outro-planeta/readme.md)
 
 A tag form no HTML é a maneira mais tradicional de interagir com o usuário da aplicação e é incrível o que é possível com esse elemento.
 
