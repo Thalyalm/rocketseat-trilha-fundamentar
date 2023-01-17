@@ -106,6 +106,8 @@ Entendendo esses princípios e com a prática, fica cada vez mais fácil entende
 
 Referência: https://developer.mozilla.org/en-US/docs/Web/CSS/color_value
 
+Ferramenta: https://convertacolor.com/
+
 ---
 
 [Voltar](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/agora-sim-cores/readme.md)
