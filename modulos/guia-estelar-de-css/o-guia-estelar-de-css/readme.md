@@ -158,7 +158,7 @@ Não é recomendado seu uso, pois leva um pouco mais de tempo do que através da
 
 ---
 
-- [ ] A Cascata
+:ballot_box_with_check: A Cascata
 
 A escolha do browser de qual regra aplicar, caso haja muitas regras para o mesmo elemento.
 
@@ -173,35 +173,122 @@ São levados em consideração 3 fatores:
 
 ---
 
-- [ ] Especificidade
+:ballot_box_with_check: Especificidade
+
+É um cálculo matemático, onde cada tipo de seletor e origem do estilo possuem valores a serem considerados.
+
+Os mais fracos são universal selector, combinators e negation pseudo-class, com o valor de 0. Em seguida, com valor de 1, são os element type selector e pseudo-elements.
+
+Também temos os classes e attribute selectors, com valor de 10, ou seja, são mais fortes que os anteriores.
+
+O segundo mais forte, ID selector, com um valor de 100, vence todos os selectors anteriores.
+
+Por fim, temos o inline, com o valor 1000, quaisquer desses selectors anteriormente citado
 
 ---
 
-- [ ] Regra important
+:ballot_box_with_check: Regra important
+
+sintaxe: !important
+
+São raras as ocasiões nas quais se devem usar um iportant, pois é em geral uma má pratica, visto que quebra o fluxo natural da cascata e pode acabar te atrapalhando caso você a deixe em algum lugar no seu código.
+
+Portanto evite ao máximo seu uso.
 
 ---
 
-- [ ] At rules
+:ballot_box_with_check: At rules
+
+São regras relacionadas ao comportamento do CSS, começa com um sinal de @ seguido do identificador e do valor.
+
+São as seguintes:
+
+    @import serve para incluir um CSS externo.
+    @media são regras condicionais para vários dispositivos.
+    @font-face é para colocar fontes externas.
+    @keyframes serve para as animations do CSS.
 
 ---
 
-- [ ] Shorthand
+:ballot_box_with_check: Shorthand
+
+É basicamente a ideia de junção de propriedades, para que fiquem de forma resumida e legível.
+
+Abaixo um exemplo de propriedades com e sem o shorthand:
+
+    {
+        /* background properties */
+        background-color: #000;
+        background-image: url(images/bg.gif);
+        background-repeat: no-repeat;
+        background-position: left top;
+
+        /* background shorthand*/
+        background: #000 url(images/bg.gif) no-repeat left top;
+
+        /* font properties */
+        font-style: italic;
+        font-weight: bold;
+        font-size: .8em;
+        line-height: 1.2;
+        font-family: Arial, sans-serif;
+
+        /* font shorthand */ 
+        font: bold italic .8em/1.2 Arial, sans-serif;
+    }
+
+Algumas das características do shorthand:
+
+Não irá considerar propriedades anteriores, ou seja, caso faça um shorthand, apenas ele será considerado, quaisquer propriedades anteriores serão substituídas pelas do shorthand.
+
+Os valores que não forem especificados irão assumir o valor padrão.
+
+Por fim, geralmente, a ordem descrita não importa, mas, caso haja muitas propriedades com valores semelhantes, poderemos encontrar problemas.
 
 ---
 
-- [ ] Funções
+:ballot_box_with_check: Funções
+
+Um tipo de valor existente no CSS, é estruturado com um nome seguido de abre e fecha parênteses.
+
+Recebe um argumento, que são seus valores.
+
+Um exemplo de função é:
+
+    color: rgb(255,0,100);
 
 ---
 
-- [ ] DevTools
+:ballot_box_with_check: DevTools
+
+Uma das ferramentas mais importantes para o desenvolvedor CSS é o DevTools (do inglês, Ferramentas de Desenvolvedor), é recomendado que você estude e faça uso da mesma, pois será muito utilizada.
 
 ---
 
-- [ ] Cuidados com a escrita
+:ballot_box_with_check: Cuidados com a escrita
+
+É importante prestar atenção à sua escrita do CSS, identar seu código para facilitar a leitura, e mais importante, manter tudo organizado e funcionando!
 
 ---
 
-- [ ] Vendor prefixes
+:ballot_box_with_check: Vendor prefixes
+
+São coisas que permitem que browsers adiocionem features a fim de colocar em uso alguma novidade que vemos no CSS.
+
+Exemplos:
+
+    p {
+        -webkit-background-clip: text; /*Chrome, Safari, iOS e Android*/
+        -moz-background-clip: text; /* Mozilla (Firefox) */
+        -ms-background-clip: text; /* Internet Explorer ou Edge*/
+        -o-background-clip: text; /* Opera */
+    }
+
+Você também pode consultar se a feature pode ser utilizada através dos sites:
+
+https://ireade.github.io/which-vendor-prefix
+
+https://caniuse.com
 
 ---
 

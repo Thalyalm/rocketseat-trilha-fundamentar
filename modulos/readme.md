@@ -16,267 +16,51 @@ O conteúdo esclarece plugin de preview HTML, tags, atributos, semântica, lista
 
 ---
 
-### 3. [Guia Estelar de CSS](/modulos/guia-estelar-de-css)
+### :ballot_box_with_check: 3. [Guia Estelar de CSS](/modulos/guia-estelar-de-css)
 
 O conteúdo aborda anatomia, seletores, box model, cascata, especificidade, Shorthand, funções, DevTools e vendor prefixes.
 
 ---
 
-### 4. Nem tudo são Pixels
+### :ballot_box_with_check: 4. [Nem tudo são Pixels](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/nem-tudo-sao-pixels)
 
 Aplicações modernas não utilizam apenas uma unidade de medida e, por isso, vamos aprender sobre todas unidades e possibilidades.
 
-- [ ] Nem tudo são pixels
-
-    - [ ] Abertura
-
-    - [ ] Introdução
-
-    - [ ] Tipos numéricos e unidades comuns
-
-    - [ ] Distâncias absolutas e relativas
-
-    - [ ] Porcentagens
-
-    - [ ] Position
-
-    - [ ] Funções
-
-    - [ ] Strings e identificadores
-
 ---
 
-### 5. Uma caixa dentro da outra
+### 5. [Uma caixa dentro da outra](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/uma-caixa-dentro-da-outra)
 
 Um dos conceitos mais importantes do CSS, o Box Model, traz sentido para como muitas regras de posicionamento funcionam.
 
-- [ ] Uma caixa dentro da outra
-
-    - [ ] Abertura
-
-    - [ ] Introdução
-
-    - [ ] Box Sizing
-
-    - [ ] Display-block-inline
-
-    - [ ] Margin
-
-    - [ ] Padding
-
-    - [ ] Border-outline
-
 ---
 
-### 6. Agora sim, cores
+### 6. [Agora sim, cores](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/agora-sim-cores)
 
 Vamos dar mais vida à nossa página. Conheceremos mais sobre cores, hexadecimal, rgb, hsl, background, além das imagens de fundo.
 
-- [ ] Cores
-
-    - [ ] Abertura
-
-    - [ ] Introdução
-
-    - [ ] Keyword named values
-
-    - [ ] Hexadecimal
-
-    - [ ] RGB
-
-    - [ ] HSL
-
-    - [ ] Global values
-
-    - [ ] Conclusão
-
-- [ ] Background
-
-    - [ ] Introdução
-
-    - [ ] Background-color
-
-    - [ ] Background-image-repeat
-
-    - [ ] Background-position
-
-    - [ ] Background-size
-
-    - [ ] Background-origin-clip
-
-    - [ ] Background-attachment
-
-    - [ ] Shorthand
-
-    - [ ] Gradient
-
-    - [ ] Múltiplos valores
-
-    - [ ] Experimentar
-
 ---
 
-### 7. Posso ver e ouvir o HTML
+### 7. [Posso ver e ouvir o HTML](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/posso-ver-e-ouvir-o-html)
 
 Existem muitos elementos de mídia no HTML incluindo áudio e vídeo e chegou o momento de vermos todas possibilidades deles.
 
-- [ ] Audio e Vídeo
-
-    - [ ] Abertura
-
-    - [ ] Vídeo
-
-    - [ ] Áudio
-
-    - [ ] Iframe
-
-- [ ] Images
-
-    - [ ] Images
-
-    - [ ] Praticando images
-
-    - [ ] Background image
-
-    - [ ] Figures
-
-    - [ ] Intro de SVG
-
-    - [ ] SVG na prática    
-
 ---
 
-### 8. Posicionando foguetes
+### 8. [Posicionando foguetes](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/posicionando-foguetes)
 
 Você precisa saber onde os elementos da sua página deverão ser posicionados. Por isso, conhecer como o CSS trabalha com o layout, ou o posicionamento dos elementos na sua página, é essencial.
 
-- [ ] Posicionando foguetes
-
-    - [ ] Abertura
-
-    - [ ] Layouts
-
-    - [ ] Position
-
-    - [ ] Static
-
-    - [ ] Relative
-
-    - [ ] Absolute
-
-    - [ ] Fixed
-
-    - [ ] Element Stacking
-
-    - [ ] Flex
-
-    - [ ] Grid
-
-    - [ ] Grid ou Flexbox
-
 ---
 
-### 9. App bonito, até nos textos
+### 9. [App bonito, até nos textos](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/app-bonito-ate-nos-textos)
 
 Não adianta a aplicação estar linda, mas usando Comic Sans como fonte e, por isso, vamos aprender sobre tipografia na web com CSS.
 
-- [ ] Trabalhando com fontes
-
-    - [ ] Abertura
-
-    - [ ] Introdução font-properties
-
-    - [ ] Font-family
-
-    - [ ] Font-weight
-
-    - [ ] Font-style
-
-    - [ ] Font-size
-
-    - [ ] Web-fonts
-
-- [ ] Mais estilos para os textos
-
-    - [ ] Font-variant e font-stretch
-
-    - [ ] Letter e word-spacing
-
-    - [ ] Line-height e text-transform
-
-    - [ ] Text-decoration
-
-    - [ ] Text-align
-
-    - [ ] Text-shadow
-
-    - [ ] Shorthand
-
 ---
 
-### 10. Formulários de outro planeta
+### 10. [Formulários de outro planeta](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/formularios-de-outro-planeta)
 
 A tag form no HTML é a maneira mais tradicional de interagir com o usuário da aplicação e é incrível o que é possível com esse elemento.
-
-- [ ] Introdução
-
-    - [ ] Abertura
-
-    - [ ] O que são forms
-
-- [ ] Estrutura
-
-    - [ ] Form
-
-    - [ ] Fieldset legend
-
-    - [ ] Label
-
-    - [ ] Button
-
-    - [ ] Datalist
-
-- [ ] Tags de Entrada de Dados
-
-    - [ ] Input
-
-    - [ ] Input atributos
-
-    - [ ] Password
-
-    - [ ] Email
-
-    - [ ] URL
-
-    - [ ] File
-
-    - [ ] Color
-
-    - [ ] Checkbox
-
-    - [ ] Hidden
-
-    - [ ] Radio
-
-    - [ ] Textarea
-
-    - [ ] Select
-
-    - [ ] Optgroup
-
-    - [ ] Search
-
-    - [ ] Number
-
-    - [ ] Range
-
-    - [ ] Data e hora
-
-- [ ] Criando um formulário
-
-    - [ ] Desenhando
-
-    - [ ] Exemplo de formulário de contato
 
 ---
 

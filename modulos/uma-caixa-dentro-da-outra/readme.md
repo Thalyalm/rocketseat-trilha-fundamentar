@@ -4,11 +4,13 @@
 
 ---
 
-### 3. Guia Estelar de CSS
+### 5. Uma caixa dentro da outra
 
-O conteúdo aborda anatomia, seletores, box model, cascata, especificidade, Shorthand, funções, DevTools e vendor prefixes.
+Um dos conceitos mais importantes do CSS, o Box Model, traz sentido para como muitas regras de posicionamento funcionam.
 
-:ballot_box_with_check: [O guia estelar de CSS](/modulos/guia-estelar-de-css/o-guia-estelar-de-css)
+---
+
+- [ ] [Uma caixa dentro da outra](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/uma-caixa-dentro-da-outra/uma-caixa-dentro-da-outra)
 
 ---
 
