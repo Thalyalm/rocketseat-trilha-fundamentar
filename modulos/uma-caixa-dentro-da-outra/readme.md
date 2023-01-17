@@ -10,7 +10,7 @@ Um dos conceitos mais importantes do CSS, o Box Model, traz sentido para como mu
 
 ---
 
-- [ ] [Uma caixa dentro da outra](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/uma-caixa-dentro-da-outra/uma-caixa-dentro-da-outra/readme.md)
+:ballot_box_with_check: [Uma caixa dentro da outra](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/uma-caixa-dentro-da-outra/uma-caixa-dentro-da-outra/readme.md)
 
 ---
 

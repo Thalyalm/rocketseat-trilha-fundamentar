@@ -28,7 +28,7 @@ Aplicações modernas não utilizam apenas uma unidade de medida e, por isso, va
 
 ---
 
-### 5. [Uma caixa dentro da outra](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/uma-caixa-dentro-da-outra/readme.md)
+### :ballot_box_with_check: 5. [Uma caixa dentro da outra](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/uma-caixa-dentro-da-outra/readme.md)
 
 Um dos conceitos mais importantes do CSS, o Box Model, traz sentido para como muitas regras de posicionamento funcionam.
 
