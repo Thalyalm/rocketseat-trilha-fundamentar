@@ -6,7 +6,7 @@
 
 :ballot_box_with_check: Abertura
 
- Nesse curso vamos aprender a como trabalhar com cores e backgrounds nos nossos elementos. Adicionar cores é algo necessário para qualquer layout e saber como trabalhar com imagens e cores de fundo é essencial.
+Nesse curso vamos aprender a como trabalhar com cores e backgrounds nos nossos elementos. Adicionar cores é algo necessário para qualquer layout e saber como trabalhar com imagens e cores de fundo é essencial.
 
 ---
 
@@ -35,7 +35,7 @@ Valores
 
 :ballot_box_with_check: Keyword named values
 
- Nessa aula vamos entender as bases de como aplicar cores no CSS.
+Nessa aula vamos entender as bases de como aplicar cores no CSS.
 
 HTML
 
@@ -58,7 +58,7 @@ CSS
 
 :ballot_box_with_check: Hexadecimal
 
- Nessa aula vamos aprender a trabalhar com valores hexadecimal
+Nessa aula vamos aprender a trabalhar com valores hexadecimal
 
     /*<hex-color> values 0-9 e A-F*/
     color: #090; /* RED, GREEN, BLUE */
@@ -68,19 +68,43 @@ CSS
 
 ---
 
- - [ ] RGB
+:ballot_box_with_check: RGB
+
+RGB → Red, Green e Blue
+
+O alpha representa a transparência da cor
+
+    /*<rgb()> values */
+    color: rgb(34, 12, 64, 0.6) /* 0-255 */
+    color: rgba(34, 12, 64, 0.6)
 
 ---
 
- - [ ] HSL
+:ballot_box_with_check: HSL
+
+HSL → Hue - Saturation - Lightness
+
+    color: hsl(180, 100%, 50%, 60%)
+    color: hsla(180, 100%, 50%, 60%)
 
 ---
 
- - [ ] Global values
+:ballot_box_with_check: Global values
+
+Nessa aula vamos ver sobre os valores globais da propriedade color.
+
+    /* Global values */
+    color: inheritr; /* Herda a cor do elemento anterior */
+    color: initial; /* Volta a sua cor inicial */
+    color: unset; /* Pega a cor do contexto */
 
 ---
 
- - [ ] Conclusão
+:ballot_box_with_check: Conclusão
+
+Entendendo esses princípios e com a prática, fica cada vez mais fácil entender como aplicar cores no CSS.
+
+Referência: https://developer.mozilla.org/en-US/docs/Web/CSS/color_value
 
 ---
 
