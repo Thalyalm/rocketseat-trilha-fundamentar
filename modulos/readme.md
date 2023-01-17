@@ -34,7 +34,7 @@ Um dos conceitos mais importantes do CSS, o Box Model, traz sentido para como mu
 
 ---
 
-### 6. [Agora sim, cores](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/agora-sim-cores/readme.md)
+### :ballot_box_with_check: 6. [Agora sim, cores](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/agora-sim-cores/readme.md)
 
 Vamos dar mais vida à nossa página. Conheceremos mais sobre cores, hexadecimal, rgb, hsl, background, além das imagens de fundo.
 
