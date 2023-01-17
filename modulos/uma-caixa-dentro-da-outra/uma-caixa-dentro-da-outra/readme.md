@@ -49,7 +49,7 @@ Normalmente usa-se o código abaixo como forma de "resetar" o box-sizing que vem
     box-sizing: border-box;
     }
 
-    O seletor * seleciona todos os elementos da página.
+O seletor * seleciona todos os elementos da página.
 
 ---
 
