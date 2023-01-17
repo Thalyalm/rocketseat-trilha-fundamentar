@@ -4,11 +4,11 @@
 
 ---
 
-:ballot_box_with_check: [Abertura e ferramentas básicas
+:ballot_box_with_check: Abertura e ferramentas básicas
 
 ---
 
-:ballot_box_with_check: [Sugestão de editor online
+:ballot_box_with_check: Sugestão de editor online
 
 ---
 
