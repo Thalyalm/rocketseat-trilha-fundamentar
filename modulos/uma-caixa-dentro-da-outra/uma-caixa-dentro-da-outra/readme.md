@@ -136,6 +136,41 @@ https://app.rocketseat.com.br/node/uma-caixa-dentro-da-outra/lesson/box-sizing
 
 - [ ] Border-outline
 
+São as bordas da caixa
+
+    value: <border-style> | <border-width> | <border-color>
+
+    style: solid | dotted | dashed | double | groove | ridge | inset | outset
+    width: <length>
+    color: <color>
+
+    div {
+        /* shorthand */
+        border-top: solid 2px; /* top | right | bottom | left */
+
+        /* style */
+        border: solid;
+
+        /* width <length> | style */
+        border: 2px dotted;
+
+        /* style | color */
+        border: outset #f33;
+
+        /* width | style | color */
+        border: medium dashed green;
+    }
+
+Documentação do MDN: https://developer.mozilla.org/en-US/docs/Web/CSS/border
+
+E o outline?
+
+O outline é muito semelhante ao border, mas difere em 4 sentidos:
+Não modifica o tamanho da caixa, pois não é parte do Box Model
+Poderá ser diferente de retangular
+Não permite ajuste individuais
+Mais usado pelo user agent para acessibilidade
+
 ---
 
 [Voltar](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/uma-caixa-dentro-da-outra/readme.md)
