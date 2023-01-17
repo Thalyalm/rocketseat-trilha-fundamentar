@@ -4,7 +4,9 @@
 
 ---
 
-- [ ] Abertura
+:ballot_box_with_check: Abertura
+
+Nesse curso vamos aprender como funciona o Box Model, espaçamentos, preenchimentos, bordas, além dos display-block e display-inline. Esses são conceitos base que vão te ajudar a evoluir muito no CSS.
 
 ---
 
