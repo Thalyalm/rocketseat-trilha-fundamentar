@@ -31,6 +31,10 @@ Propriedades da caixa
 
 :ballot_box_with_check: Box Sizing
 
+Nessa aula vamos ver sobre o box-sizing que é o responsável pelo calculo do tamanho total da caixa (box).
+
+Podemos usar a ferramenta de desenvolvedor do próprio navegador para visualizar as especificações dos elementos da página
+
 Quando o padding é adicionado (padding: 0 20px;) faz com que aumente a largura da caixa, deixando de respeitar os 100px de largura.
 
 E é por isso que é tão importante conhecer a propriedade do box-sizing.
