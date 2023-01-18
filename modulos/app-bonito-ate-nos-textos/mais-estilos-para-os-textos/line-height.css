@@ -2,13 +2,13 @@
     Line-Height
 
     - Espaços entre linhas 
+    
     - Pode ser com unidade ou sem unidades de medida
-    - Comuns
+    
+    - Comuns:
         1.5 ou 2
 */
 
 p {
     line-height: 1.6;
 }
-
-
