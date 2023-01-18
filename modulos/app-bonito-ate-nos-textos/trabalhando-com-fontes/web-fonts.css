@@ -1,5 +1,5 @@
 /*
-    Web-Fonts
+    Web Fonts
     
     - Fontes do sistema x Fontes da web
 
@@ -16,7 +16,7 @@
 */
 
 p { 
-    font-family: 'Bebas Neue', cursive;
+    font-family: 'Bebas Neue', 'cursive';
     font-family: 'Roboto', sans-serif;
 }
 
