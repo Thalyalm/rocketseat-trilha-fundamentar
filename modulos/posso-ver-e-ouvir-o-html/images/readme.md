@@ -24,7 +24,7 @@
 
 ---
 
-:ballot_box_with_check: SVG na práticaa
+:ballot_box_with_check: SVG na prática
 
 ---
 
