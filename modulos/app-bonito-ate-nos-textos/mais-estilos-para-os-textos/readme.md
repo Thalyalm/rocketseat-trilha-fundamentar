@@ -90,7 +90,34 @@ Referência: https://developer.mozilla.org/en-US/docs/Web/CSS/text-transform
 
 ---
 
-- [ ] Text-decoration
+:ballot_box_with_check: Text-decoration
+
+Aparência decorativa de um texto
+
+Line:
+    
+    underline | overline | line-through
+
+Podemos aplicar mais de 1 valor
+
+Style:
+
+    wavy | dotted | double | dashed | solid
+
+Color:
+
+    <color> values
+
+
+    h1 {
+        text-decoration: underline; /* shorthand */
+    }
+
+    p {
+    text-decoration: wavy overline blue; /* shorthand */
+    }
+
+Referência: https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration
 
 ---
 
