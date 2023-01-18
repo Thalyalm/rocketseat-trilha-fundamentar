@@ -10,11 +10,29 @@ Nesse curso vamos ver como posicionar os elementos em tela criando layouts marav
 
 ---
 
-- [ ] Layouts
+:ballot_box_with_check: Layouts
+
+Nessa aula vamos ver alguns dos métodos usados para posicionar os elementos na tela.
+
+    Tables
+    Floats e clear
+    Frameworks e Grid Systems
+    Flexbox
+    Grid
 
 ---
 
-- [ ] Position
+:ballot_box_with_check: Position
+
+Controla onde, na página, o elemento irá ficar, alterando o fluxo normal dos elementos.
+
+Name: 
+    position
+
+Value: 
+    static | relative | absolute | fixed
+
+Lembrando que o fluxo normal dos elementos é ficar um abaixo do outro, a não ser no caso de elementos inline, que ficam um ao lado do outro.
 
 ---
 
