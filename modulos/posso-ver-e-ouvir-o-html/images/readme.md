@@ -8,7 +8,7 @@
 
 ---
 
-- [ ] Praticando images
+:ballot_box_with_check: Praticando images
 
 ---
 
