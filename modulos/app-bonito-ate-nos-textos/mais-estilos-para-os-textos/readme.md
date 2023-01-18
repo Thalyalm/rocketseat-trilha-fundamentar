@@ -36,7 +36,27 @@ Referência: https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fun
 
 ---
 
-- [ ] Letter e word-spacing
+:ballot_box_with_check: Letter e word-spacing
+
+Letter spacing
+
+Define o espaçamento entre os caracteres
+
+    p {
+        letter-spacing: 4px;
+    }
+
+Referência: https://developer.mozilla.org/en-US/docs/Web/CSS/letter-spacing
+
+Word spacing
+
+Define o espaçamento entre palavras
+
+    p {
+        word-spacing: 1em;
+    }
+
+Referência: https://developer.mozilla.org/en-US/docs/Web/CSS/word-spacing
 
 ---
 
