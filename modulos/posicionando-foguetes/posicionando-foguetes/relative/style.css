@@ -10,7 +10,11 @@ body {
 
 .box1 {
     background-color: blue;
-    position: static;
+    position: relative;
+    top: 100px;
+    right: 100px;
+    bottom: 100px;
+    left: 100px;
 }
 
 .box2 {
@@ -20,11 +24,11 @@ body {
 
 .box3 {
     background-color: white;
-    position: absolute;
+    position: relative;
 }
 
 .box4 {
     background-color: blue;
-    position: fixed;
-    left: 100px;
+    position: relative;
 }
+

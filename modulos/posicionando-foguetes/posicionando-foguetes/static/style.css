@@ -15,16 +15,15 @@ body {
 
 .box2 {
     background-color: black;
-    position: relative;
+    position: static;
 }
 
 .box3 {
     background-color: white;
-    position: absolute;
+    position: static;
 }
 
 .box4 {
     background-color: blue;
-    position: fixed;
-    left: 100px;
+    position: static;
 }

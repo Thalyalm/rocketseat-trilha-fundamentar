@@ -10,12 +10,12 @@ body {
 
 .box1 {
     background-color: blue;
-    position: static;
+    position: absolute;
 }
 
 .box2 {
     background-color: black;
-    position: relative;
+    position: absolute;
 }
 
 .box3 {
@@ -25,6 +25,5 @@ body {
 
 .box4 {
     background-color: blue;
-    position: fixed;
-    left: 100px;
+    position: absolute;
 }
