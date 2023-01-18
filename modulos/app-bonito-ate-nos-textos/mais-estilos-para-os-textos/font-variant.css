@@ -1,0 +1,9 @@
+/*
+    Font Variant
+
+    - Variações na apresentação fonte
+*/
+
+p {
+    font-variant: small-caps;
+}

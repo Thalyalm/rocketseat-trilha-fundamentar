@@ -46,13 +46,13 @@ Existem muitos elementos de mídia no HTML incluindo áudio e vídeo e chegou o 
 
 ---
 
-### 8. [Posicionando foguetes](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/posicionando-foguetes/readme.md)
+### :ballot_box_with_check: 8. [Posicionando foguetes](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/posicionando-foguetes/readme.md)
 
 Você precisa saber onde os elementos da sua página deverão ser posicionados. Por isso, conhecer como o CSS trabalha com o layout, ou o posicionamento dos elementos na sua página, é essencial.
 
 ---
 
-### 9. [App bonito, até nos textos](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/app-bonito-ate-nos-textos/readme.md)
+### :ballot_box_with_check: 9. [App bonito, até nos textos](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/app-bonito-ate-nos-textos/readme.md)
 
 Não adianta a aplicação estar linda, mas usando Comic Sans como fonte e, por isso, vamos aprender sobre tipografia na web com CSS.
 

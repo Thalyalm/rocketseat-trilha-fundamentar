@@ -1,0 +1,14 @@
+/*
+    Font Style    
+
+    - É o estilo da fonte
+    
+    - Valores:
+        normal | italic | oblique
+
+*/
+
+p {
+    font-style: normal;
+}
+

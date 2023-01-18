@@ -1,0 +1,14 @@
+/*
+    Font Stretch
+
+    - Alargamento ou encolhimento da fonte
+
+    - Aceita palavras-chaves como:
+        expanded, condensed, normal
+
+    - Aceita porcentagens de 50% a 200%
+*/
+
+p {
+    font-stretch: expanded;
+}

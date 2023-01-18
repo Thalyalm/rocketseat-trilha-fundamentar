@@ -1,0 +1,24 @@
+/*
+    Text Decoration
+
+    - Aparência decorativa de um texto
+
+    - Line:
+        underline | overline | line-through
+
+    - Podemos aplicar mais de 1 valor
+    
+    - Style:
+        wavy | dotted | double | dashed | solid
+
+    - Color:
+        <color> values
+
+*/
+
+p {
+    text-decoration: underline; /* shorthand */
+}
+
+
+
