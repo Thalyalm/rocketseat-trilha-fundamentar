@@ -94,7 +94,15 @@ Alinhamento
 
 ---
 
-- [ ] Grid
+:ballot_box_with_check: Grid
+
+Posicionamento dos elementos dentro da caixa
+
+Posicionamento horizontal e vertical ao mesmo
+
+Pode ser flexível ou fixo
+
+Cria espaços para os elementos filho habitarem
 
 ---
 
