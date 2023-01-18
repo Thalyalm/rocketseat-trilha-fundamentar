@@ -1,0 +1,15 @@
+/*
+    - Font Family
+        - Tipo de fonte de um elemento
+        - Lista de fontes e ordem de prioridade
+        - Inclui fallback font
+*/
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/*
+    - serif
+    - sans
+*/
