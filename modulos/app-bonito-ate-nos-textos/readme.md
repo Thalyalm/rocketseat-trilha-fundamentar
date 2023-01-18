@@ -10,7 +10,7 @@ Não adianta a aplicação estar linda, mas usando Comic Sans como fonte e, por 
 
 :ballot_box_with_check: [Trabalhando com fontes](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/app-bonito-ate-nos-textos/trabalhando-com-fontes/readme.md)
 
-- [ ] [Mais estilos para os textos](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/app-bonito-ate-nos-textos/trabalhando-com-fontes/readme.md)
+- [ ] [Mais estilos para os textos](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/blob/main/modulos/app-bonito-ate-nos-textos/mais-estilos-para-os-textos/readme.md)
 
 ---
 
