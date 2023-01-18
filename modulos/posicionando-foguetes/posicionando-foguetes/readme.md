@@ -36,7 +36,9 @@ Lembrando que o fluxo normal dos elementos é ficar um abaixo do outro, a não s
 
 ---
 
-- [ ] Static
+:ballot_box_with_check: Static
+
+Por padrão os elementos são static. Isso significa que os elementos irão seguir o fluxo normal do HTML.
 
 ---
 
