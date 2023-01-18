@@ -10,6 +10,9 @@ body {
 
 .box1 {
     background-color: blue;
+    position: absolute;
+    left: 100px;
+    top:  80px;
 }
 
 .box2 {
@@ -19,6 +22,3 @@ body {
 .box3 {
     background-color: white;
 }
-
-
-
