@@ -4,11 +4,11 @@
 
 ---
 
-- [ ] Abertura
+:ballot_box_with_check: Abertura
 
 ---
 
-- [ ] Vídeo
+:ballot_box_with_check: Vídeo
 
 ---
 
