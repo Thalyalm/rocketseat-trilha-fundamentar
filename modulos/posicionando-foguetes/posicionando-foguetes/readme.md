@@ -68,7 +68,29 @@ Quando aplicado o position fixed é como se criasse um elemento flutuante que fi
 
 ---
 
-- [ ] Flex
+:ballot_box_with_check: Flex
+
+Nessa aula vamos ver uma introdução de como posicionar elementos usando o CSS Flexbox
+
+Flex-box
+
+    Nos permite posicionar os elementos dentro da caixa
+
+    Controle em uma dimensão (horizontal ou vertical)
+
+    Alinhamento, direcionamento, ordenar e tamanhos
+
+    div.parent {
+        display: flex;
+    }
+
+Flex-direction
+    Qual a direção do flex: horizontal ou vertical
+    row | column
+
+Alinhamento
+    justify-content
+    align-items
 
 ---
 
