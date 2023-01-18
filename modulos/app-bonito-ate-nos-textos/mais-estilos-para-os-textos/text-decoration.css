@@ -3,15 +3,15 @@
 
     - Aparência decorativa de um texto
 
-    - Line  
+    - Line:
         underline | overline | line-through
 
     - Podemos aplicar mais de 1 valor
     
-    - Style
+    - Style:
         wavy | dotted | double | dashed | solid
 
-    - Color
+    - Color:
         <color> values
 
 */
