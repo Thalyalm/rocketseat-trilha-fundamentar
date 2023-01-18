@@ -4,11 +4,11 @@
 
 ---
 
-- [ ] Abertura
+:ballot_box_with_check: Abertura
 
 ---
 
-- [ ] O que são forms
+:ballot_box_with_check: O que são forms
 
 ---
 
