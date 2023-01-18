@@ -50,11 +50,15 @@ Quando o position é relative os elementos são deslocados do seu posicionamento
 
 ---
 
-- [ ] Absolute
+:ballot_box_with_check: Absolute
+
+Quando o position é absolute o elemento é deslocado saindo do fluxo normal. O elemento de position absolute é posicionado em relação ao seu parent element mais próximo. Se esse elemento "pai" não existir, ele será posicionando em relação ao bloco contendo a raiz do elemento.
 
 ---
 
-- [ ] Fixed
+:ballot_box_with_check: Fixed
+
+Quando aplicado o position fixed é como se criasse um elemento flutuante que fica fixo na página, independente do scrolling feito.
 
 ---
 
