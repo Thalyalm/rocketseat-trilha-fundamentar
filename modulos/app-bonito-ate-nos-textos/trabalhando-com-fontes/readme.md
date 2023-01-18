@@ -4,15 +4,43 @@
 
 ---
 
-- [ ] Abertura
+:ballot_box_with_check: Abertura
+
+Nesse curso vamos aprender aplicar estilos CSS nos textos para deixar nossos layouts mais interessantes.
 
 ---
 
-- [ ] Introdução font-properties
+:ballot_box_with_check: Introdução font-properties
+
+A tipografia transmite uma mensagem, por exemplo, quando queremos dar uma ênfase no texto nós podemos escrever o mesmo em negrito.
+
+Nós podemos transmitir uma mensagem diferente dependendo do estilo que escrevemos o texto.
+
+Algumas das propriedades de fonts do CSS que podem nos ajudar a transmitir uma mensagem através dos textos da página são:
+
+    font-family
+    font-weight
+    font-style
+    font-size
 
 ---
 
-- [ ] Font-family
+:ballot_box_with_check: Font-family
+
+Tipo de fonte de um elemento
+
+Lista de fontes e ordem de prioridade
+
+inclui fallback font
+    
+    p {
+    font-family: "Times New Roman", Times, serif;
+    }
+
+Alguns tipos de fonts:
+    
+    serif (com serifa)
+    sans-serif (sem serifa)
 
 ---
 
