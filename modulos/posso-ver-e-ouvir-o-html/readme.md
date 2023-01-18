@@ -10,7 +10,7 @@ Existem muitos elementos de mídia no HTML incluindo áudio e vídeo e chegou o 
 
 :ballot_box_with_check: [Áudio e Vídeo](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/posso-ver-e-ouvir-o-html/audio-e-video/readme.md)
 
-- [ ] [Images](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/posso-ver-e-ouvir-o-html/images/readme.md)
+:ballot_box_with_check: [Images](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/posso-ver-e-ouvir-o-html/images/readme.md)
 
 ---
 

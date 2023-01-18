@@ -40,7 +40,7 @@ Vamos dar mais vida à nossa página. Conheceremos mais sobre cores, hexadecimal
 
 ---
 
-### 7. [Posso ver e ouvir o HTML](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/posso-ver-e-ouvir-o-html/readme.md)
+### :ballot_box_with_check: 7. [Posso ver e ouvir o HTML](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/posso-ver-e-ouvir-o-html/readme.md)
 
 Existem muitos elementos de mídia no HTML incluindo áudio e vídeo e chegou o momento de vermos todas possibilidades deles.
 
