@@ -4,27 +4,27 @@
 
 ---
 
-- [ ] Images
+:ballot_box_with_check: Images
 
 ---
 
-- [ ] Praticando images
+:ballot_box_with_check: Praticando images
 
 ---
 
-- [ ] Background image
+:ballot_box_with_check: Background image
 
 ---
 
-- [ ] Figures
+:ballot_box_with_check: Figures
 
 ---
 
-- [ ] Intro de SVG
+:ballot_box_with_check: Intro de SVG
 
 ---
 
-- [ ] SVG na prática
+:ballot_box_with_check: SVG na prática
 
 ---
 

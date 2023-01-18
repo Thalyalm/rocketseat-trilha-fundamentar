@@ -1,0 +1,14 @@
+/*
+    background-image
+
+    - Com a tag style
+    - Somente para estilo
+    - Não é semântica e falta siginificado
+
+*/
+
+p {
+    background-image: url("https://source.unsplash.com/random");
+}
+
+

@@ -4,19 +4,19 @@
 
 ---
 
-- [ ] Abertura
+:ballot_box_with_check: Abertura
 
 ---
 
-- [ ] Vídeo
+:ballot_box_with_check: Vídeo
 
 ---
 
-- [ ] Áudio
+:ballot_box_with_check: Áudio
 
 ---
 
-- [ ] Iframe
+:ballot_box_with_check: Iframe
 
 ---
 
