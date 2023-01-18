@@ -1,8 +1,9 @@
 /*
-    - Font Family
-        - Tipo de fonte de um elemento
-        - Lista de fontes e ordem de prioridade
-        - Inclui fallback font
+    Font Family
+    
+    - Tipo de fonte de um elemento
+    - Lista de fontes e ordem de prioridade
+    - Inclui fallback font
 */
 
 p {
@@ -13,3 +14,6 @@ p {
     - serif
     - sans
 */
+
+
+
