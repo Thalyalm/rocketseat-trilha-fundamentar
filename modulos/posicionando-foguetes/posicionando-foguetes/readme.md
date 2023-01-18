@@ -106,7 +106,9 @@ Cria espaços para os elementos filho habitarem
 
 ---
 
-- [ ] Grid ou Flexbox
+:ballot_box_with_check: Grid ou Flexbox
+
+Podemos usar o Display Flex e Display Grid ao mesmo tempo.
 
 ---
 
