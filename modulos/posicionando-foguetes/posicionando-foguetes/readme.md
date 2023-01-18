@@ -62,7 +62,9 @@ Quando aplicado o position fixed é como se criasse um elemento flutuante que fi
 
 ---
 
-- [ ] Element Stacking
+:ballot_box_with_check: Element Stacking
+
+É o empilhamento de elementos. Podemos usar o z-index para determinar a ordem da posição do elemento. Quanto maior o z-index, mais "acima" vai aparecer o elemento.
 
 ---
 
