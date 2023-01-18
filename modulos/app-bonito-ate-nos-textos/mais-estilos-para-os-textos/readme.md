@@ -10,6 +10,8 @@ Font Variant
 
 Faz variações na apresentação da fonte
 
+Script:
+
     p {
         font-variant: small-caps;
     }
@@ -25,6 +27,8 @@ Aceita palavras-chaves como: expanded, condensed, normal
 Aceita porcentagens de 50% a 200%
 
 Essa propriedade não vai funcionar em todas as fontes
+
+Script:
 
     p {
         font-stretch: expanded;
@@ -42,6 +46,8 @@ Letter spacing
 
 Define o espaçamento entre os caracteres
 
+Script:
+
     p {
         letter-spacing: 4px;
     }
@@ -51,6 +57,8 @@ Referência: https://developer.mozilla.org/en-US/docs/Web/CSS/letter-spacing
 Word spacing
 
 Define o espaçamento entre palavras
+
+Script:
 
     p {
         word-spacing: 1em;
@@ -70,6 +78,8 @@ Pode ser com unidades ou sem unidades de medida
 
 Valores comuns: 1.5 ou 2
 
+Script:
+
     p {
         line-height: 1.5;
     }
@@ -81,6 +91,8 @@ Text transform
 Transformação do texto
 
 Valores podem ser: none | capitalize | uppercase | lowercase | full-width | full-size-kana
+
+Script:
 
     p {
         text-transform: uppercase;
@@ -108,6 +120,7 @@ Color:
 
     <color> values
 
+Script:
 
     h1 {
         text-decoration: underline; /* shorthand */
@@ -121,11 +134,37 @@ Referência: https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration
 
 ---
 
-- [ ] Text-align
+:ballot_box_with_check: Text-align
+
+Alinhamento de um texto
+
+Valores:
+    start | end | left | right | center | justify | match-parent
+
+Script:
+
+    p {
+        text-align: center;
+    }
+
+Referência: https://developer.mozilla.org/en-US/docs/Web/CSS/text-align
 
 ---
 
-- [ ] Text-shadow
+:ballot_box_with_check: Text-shadow
+
+Sombra aplicada a um texto
+
+Permite múltiplos valores
+
+Script:
+
+    p {
+    text-shadow: 1px 1px 1px red,
+            2px 2px 1px green; /* offset-x | offset-y | blur-radius | color */
+    }
+
+Referência: https://developer.mozilla.org/en-US/docs/Web/CSS/text-shadow
 
 ---
 
