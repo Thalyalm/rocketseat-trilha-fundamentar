@@ -168,7 +168,15 @@ Referência: https://developer.mozilla.org/en-US/docs/Web/CSS/text-shadow
 
 ---
 
-- [ ] Shorthand
+:ballot_box_with_check: Shorthand
+
+Podemos usar o shorthand font para determinar os seguintes valores: font-style, font-variant, font-weight, font-stretch, font-size, line-height e font-family
+
+Script:
+
+    p {
+    font: italic normal bold normal 3em/1.5 Helvetica, Arial, sans-serif;
+    }
 
 ---
 
