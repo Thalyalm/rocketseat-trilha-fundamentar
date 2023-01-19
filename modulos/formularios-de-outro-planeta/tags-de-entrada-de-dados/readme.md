@@ -4,11 +4,11 @@
 
 ---
 
-- [ ] Input
+:ballot_box_with_check: Input
 
 ---
 
-- [ ] Input atributos
+:ballot_box_with_check: Input atributos
 
 ---
 
