@@ -16,11 +16,11 @@
 
 ---
 
-- [ ] Button
+:ballot_box_with_check: Button
 
 ---
 
-- [ ] Datalist
+:ballot_box_with_check: Datalist
 
 ---
 
