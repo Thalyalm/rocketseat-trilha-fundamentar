@@ -40,7 +40,7 @@
 
 ---
 
-- [ ] Radio
+:ballot_box_with_check: Radio
 
 ---
 
