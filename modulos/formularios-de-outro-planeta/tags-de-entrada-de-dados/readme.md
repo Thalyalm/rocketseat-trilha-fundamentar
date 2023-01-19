@@ -32,7 +32,7 @@
 
 ---
 
-- [ ] Checkbox
+:ballot_box_with_check: Checkbox
 
 ---
 
