@@ -1,0 +1,64 @@
+<!--
+    <input type="url">
+
+    - Espera que o usuário digite uma url
+
+    - Irá validar se o valor digitado é uma url
+
+    - Atributos
+         placeholder
+            - Mostra um exemplo de texto a ser digitado no campo
+
+        - readonly / disabled
+            - Atributo booleano indicando se o campo está habilitado ou não
+
+        - value
+
+        - required
+            -O campo será obrigatório
+
+        - minlenght / maxlength
+            - O numero mínimo e/ou máximo de caracteres para este campo
+
+        - size
+            - O número aceitável de caracteres que esse campo deverá conter
+
+        - pattern
+            - Uso de expressão regular para validar o campo
+
+            - Exemplo: O usuário só poderá colocar email do domínio rocketseat.com.br
+                - pattern=".*\.com\.br\/.*"
+        
+        - list
+            - O id de uma tag <datalist> que está no mesmo documento
+
+            - <datalist> irá conter uma ista de valores pré definidos a fim de surgerir ao usuário, quais valores estão disponíveis
+                - Os valores do <datalist> que não forem compatíveis com o campo, não serão apresentados como sugestão
+
+        - spellcheck
+            - Habilitar a verificação ortográfica para este input
+-->
+
+<form action="">
+    <datalist id="urldate">
+        <option>https://rocketseat.com.br</option>
+        <option>https://rocketseat.com.br</option>
+    </datalist>
+    <input type="url"
+    placeholder="http://example.com.br"
+    value="http://example.com.br"
+    required
+    minlength="10"
+    maxlength="100"
+    size="60"
+    pattern=".*\.com\.br\/.*"
+    title="Somente domínios .com.br serão aceitos"
+    required
+    list="urldate"
+    spellcheck="false"
+    >
+    <button type="submite">Enviar</button>
+</form>
+
+
+
