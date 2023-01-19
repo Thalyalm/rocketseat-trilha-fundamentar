@@ -28,7 +28,7 @@
 
 ---
 
-- [ ] Color
+:ballot_box_with_check: Color
 
 ---
 
