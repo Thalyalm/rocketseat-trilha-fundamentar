@@ -4,15 +4,15 @@
 
 ---
 
-- [ ] Form
+:ballot_box_with_check: Form
 
 ---
 
-- [ ] Fieldset legend
+:ballot_box_with_check: Fieldset legend
 
 ---
 
-- [ ] Label
+:ballot_box_with_check: Label
 
 ---
 
