@@ -12,7 +12,7 @@
 
 ---
 
-- [ ] Password
+:ballot_box_with_check: Password
 
 ---
 
