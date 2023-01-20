@@ -44,7 +44,7 @@
 
 ---
 
-- [ ] Textarea
+:ballot_box_with_check: Textarea
 
 ---
 
