@@ -4,11 +4,11 @@
 
 ---
 
-- [ ] Desenhando
+:ballot_box_with_check: Desenhando
 
 ---
 
-- [ ] Exemplo de formulário de contato
+:ballot_box_with_check: Exemplo de formulário de contato
 
 ---
 
