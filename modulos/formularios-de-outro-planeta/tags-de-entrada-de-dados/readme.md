@@ -68,7 +68,7 @@
 
 ---
 
-- [ ] Data e hora
+:ballot_box_with_check: Data e hora
 
 ---
 
