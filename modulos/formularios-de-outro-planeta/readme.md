@@ -12,7 +12,7 @@ A tag form no HTML é a maneira mais tradicional de interagir com o usuário da 
 
 :ballot_box_with_check: [Estrutura](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/formularios-de-outro-planeta/estrutura/readme.md)
 
-- [ ] [Tags de Entrada de Dados](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/formularios-de-outro-planeta/tags-de-entrada-de-dados/readme.md)
+:ballot_box_with_check: [Tags de Entrada de Dados](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/formularios-de-outro-planeta/tags-de-entrada-de-dados/readme.md)
 
 - [ ] [Criando um formulário](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/formularios-de-outro-planeta/criando-um-formulario/readme.md)
 
