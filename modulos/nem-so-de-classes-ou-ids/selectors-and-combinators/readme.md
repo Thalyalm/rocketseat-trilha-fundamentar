@@ -6,13 +6,23 @@
 
 - [ ] Introdução
 
+---
+
 - [ ] Seletores
+
+---
 
 - [ ] Combinators
 
+---
+
 - [ ] Child combinator
 
+---
+
 - [ ] Sibling Combinator
+
+---
 
 - [ ] Utilizando combinators
 
