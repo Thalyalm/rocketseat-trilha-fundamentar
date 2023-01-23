@@ -12,4 +12,4 @@ Você precisa saber onde os elementos da sua página deverão ser posicionados. 
 
 ---
 
-[Voltar](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/readme.md)
+[Voltar](/modulos/readme.md)

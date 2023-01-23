@@ -8,22 +8,22 @@
 
 O módulo explora atributos e funcionalidades da DOM, getElementById, ByClassName e ByTagName, além de querySelector, querySelectorAll, textContent, innerText, innerHTML, Value, alteração com style, classList, parentElement e parentNode, elementos filhos e irmãos, insertBefore, métodos para adição de eventos via JS.
 
-- [ ] [Introdução]()
+- [ ] [Introdução](/modulos/pilotando-com-a-dom//readme.md)
 
-- [ ] [Selecionando elementos]()
+- [ ] [Selecionando elementos](/modulos/pilotando-com-a-dom/selecionando-elementos/readme.md)
 
-- [ ] [Manipulando conteúdos]()
+- [ ] [Manipulando conteúdos](/modulos/pilotando-com-a-dom/manipulando-conteudos/readme.md)
 
-- [ ] [Manipulando estilos e classes]()
+- [ ] [Manipulando estilos e classes](/modulos/pilotando-com-a-dom/manipulando-estilos-e-classes/readme.md)
 
-- [ ] [Navegando pelos elementos]()
+- [ ] [Navegando pelos elementos](/modulos/pilotando-com-a-dom/navegando-pelos-elementos/readme.md)
 
-- [ ] [Criando e adicionando elementos na página]()
+- [ ] [Criando e adicionando elementos na página](/modulos/pilotando-com-a-dom/criando-e-adicionando-elementos-na-pagina/readme.md)
 
-- [ ] [Eventos]()
+- [ ] [Eventos](/modulos/pilotando-com-a-dom/eventos/readme.md)
 
-- [ ] [Praticando]()
+- [ ] [Praticando](/modulos/pilotando-com-a-dom/praticando/readme.md)
 
 ---
 
-[Voltar](https://github.com/Thalyalm/rocketseat-trilha-fundamentar)
+[Voltar](/modulos/readme.md)

@@ -32,4 +32,4 @@ As aulas deste conjunto abordam tipos de dados, variáveis, funções, manipula�
 
 ---
 
-[Voltar](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/readme.md)
+[Voltar](/modulos/readme.md)

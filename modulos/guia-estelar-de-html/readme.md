@@ -20,4 +20,4 @@ O conteúdo esclarece plugin de preview HTML, tags, atributos, semântica, lista
 
 ---
 
-[Voltar](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/readme.md)
+[Voltar](/modulos/readme.md)

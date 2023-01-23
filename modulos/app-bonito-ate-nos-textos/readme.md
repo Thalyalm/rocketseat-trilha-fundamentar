@@ -14,4 +14,4 @@ Não adianta a aplicação estar linda, mas usando Comic Sans como fonte e, por 
 
 ---
 
-[Voltar](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/readme.md)
+[Voltar](/modulos/readme.md)

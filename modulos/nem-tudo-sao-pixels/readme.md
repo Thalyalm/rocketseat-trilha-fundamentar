@@ -12,4 +12,4 @@ Aplicações modernas não utilizam apenas uma unidade de medida e, por isso, va
 
 ---
 
-[Voltar](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/readme.md)
+[Voltar](/modulos/readme.md)

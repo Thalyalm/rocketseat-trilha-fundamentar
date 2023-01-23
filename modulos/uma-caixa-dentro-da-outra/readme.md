@@ -14,4 +14,4 @@ Um dos conceitos mais importantes do CSS, o Box Model, traz sentido para como mu
 
 ---
 
-[Voltar](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/readme.md)
+[Voltar](/modulos/readme.md)

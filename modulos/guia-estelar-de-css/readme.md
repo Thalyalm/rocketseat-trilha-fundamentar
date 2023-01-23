@@ -12,4 +12,4 @@ O conteúdo aborda anatomia, seletores, box model, cascata, especificidade, Shor
 
 ---
 
-[Voltar](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/readme.md)
+[Voltar](/modulos/readme.md)

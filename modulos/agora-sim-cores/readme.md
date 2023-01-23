@@ -14,4 +14,4 @@ Vamos dar mais vida à nossa página. Conheceremos mais sobre cores, hexadecimal
 
 ---
 
-[Voltar](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/readme.md)
+[Voltar](/modulos/readme.md)
