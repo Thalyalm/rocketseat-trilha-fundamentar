@@ -82,7 +82,7 @@ Existem muitas formas de selecionarmos o elemento do HTML para aplicarmos regras
 
 ---
 
-### 14. Alinhando os planetas
+### 14. [Alinhando os planetas]()
 
 Com o CSS moderno, nós podemos posicionar, alinhar, ordenar e trabalhar com os elementos de maneira flexível. Esse e outros poderes do Flexbox você vai conhecer agora.
 
