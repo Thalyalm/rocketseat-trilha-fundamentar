@@ -18,7 +18,7 @@ As aulas deste conjunto abordam tipos de dados, variáveis, funções, manipula�
 
 - [ ] [Praticando e avançando]()
 
-- [ ] [Funções]]()
+- [ ] [Funções]()
 
 - [ ] [Manipulando dados]()
 
