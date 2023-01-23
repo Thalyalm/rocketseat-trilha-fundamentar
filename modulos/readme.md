@@ -22,73 +22,73 @@ O conteúdo aborda anatomia, seletores, box model, cascata, especificidade, Shor
 
 ---
 
-### :ballot_box_with_check: 4. [Nem tudo são Pixels](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/nem-tudo-sao-pixels/readme.md)
+### :ballot_box_with_check: 4. [Nem tudo são Pixels](/modulos/nem-tudo-sao-pixels/readme.md)
 
 Aplicações modernas não utilizam apenas uma unidade de medida e, por isso, vamos aprender sobre todas unidades e possibilidades.
 
 ---
 
-### :ballot_box_with_check: 5. [Uma caixa dentro da outra](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/uma-caixa-dentro-da-outra/readme.md)
+### :ballot_box_with_check: 5. [Uma caixa dentro da outra](/modulos/uma-caixa-dentro-da-outra/readme.md)
 
 Um dos conceitos mais importantes do CSS, o Box Model, traz sentido para como muitas regras de posicionamento funcionam.
 
 ---
 
-### :ballot_box_with_check: 6. [Agora sim, cores](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/agora-sim-cores/readme.md)
+### :ballot_box_with_check: 6. [Agora sim, cores](/modulos/agora-sim-cores/readme.md)
 
 Vamos dar mais vida à nossa página. Conheceremos mais sobre cores, hexadecimal, rgb, hsl, background, além das imagens de fundo.
 
 ---
 
-### :ballot_box_with_check: 7. [Posso ver e ouvir o HTML](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/posso-ver-e-ouvir-o-html/readme.md)
+### :ballot_box_with_check: 7. [Posso ver e ouvir o HTML](/modulos/posso-ver-e-ouvir-o-html/readme.md)
 
 Existem muitos elementos de mídia no HTML incluindo áudio e vídeo e chegou o momento de vermos todas possibilidades deles.
 
 ---
 
-### :ballot_box_with_check: 8. [Posicionando foguetes](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/posicionando-foguetes/readme.md)
+### :ballot_box_with_check: 8. [Posicionando foguetes](/modulos/posicionando-foguetes/readme.md)
 
 Você precisa saber onde os elementos da sua página deverão ser posicionados. Por isso, conhecer como o CSS trabalha com o layout, ou o posicionamento dos elementos na sua página, é essencial.
 
 ---
 
-### :ballot_box_with_check: 9. [App bonito, até nos textos](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/app-bonito-ate-nos-textos/readme.md)
+### :ballot_box_with_check: 9. [App bonito, até nos textos](/modulos/app-bonito-ate-nos-textos/readme.md)
 
 Não adianta a aplicação estar linda, mas usando Comic Sans como fonte e, por isso, vamos aprender sobre tipografia na web com CSS.
 
 ---
 
-### :ballot_box_with_check: 10. [Formulários de outro planeta](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/formularios-de-outro-planeta/readme.md)
+### :ballot_box_with_check: 10. [Formulários de outro planeta](/modulos/formularios-de-outro-planeta/readme.md)
 
 A tag form no HTML é a maneira mais tradicional de interagir com o usuário da aplicação e é incrível o que é possível com esse elemento.
 
 ---
 
-### 11. [Guia Estelar JavaScript](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/guia-estelar-javascript/readme.md)
+### 11. [Guia Estelar JavaScript](/modulos/guia-estelar-javascript/readme.md)
 
 As aulas deste conjunto abordam tipos de dados, variáveis, funções, manipulação de dados, expressões e aplicabilidade dos recursos.
 
 ---
 
-### 12. [HTML que faz sentido, para todos](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/html-que-faz-sentido-para-todos/readme.md)
+### 12. [HTML que faz sentido, para todos](/modulos/html-que-faz-sentido-para-todos/readme.md)
 
 A web é um espaço para todos e, por isso, precisamos entender sobre semântica dos elementos e acessibilidade do HTML.
 
 ---
 
-### 13. [Nem só de classes ou IDs](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/nem-so-de-classes-ou-ids/readme.md)
+### 13. [Nem só de classes ou IDs](/modulos/nem-so-de-classes-ou-ids/readme.md)
 
 Existem muitas formas de selecionarmos o elemento do HTML para aplicarmos regras de CSS e vamos conhecer todas elas agora.
 
 ---
 
-### 14. [Alinhando os planetas](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/alinhando-os-planetas/redme.md)
+### 14. [Alinhando os planetas](/modulos/alinhando-os-planetas/readme.md)
 
 Com o CSS moderno, nós podemos posicionar, alinhar, ordenar e trabalhar com os elementos de maneira flexível. Esse e outros poderes do Flexbox você vai conhecer agora.
 
 ---
 
-### 15. [Pilotando com a DOM](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/pilotando-com-a-dom/redme.md)
+### 15. [Pilotando com a DOM](/modulos/pilotando-com-a-dom/readme.md)
 
 O módulo explora atributos e funcionalidades da DOM, getElementById, ByClassName e ByTagName, além de querySelector, querySelectorAll, textContent, innerText, innerHTML, Value, alteração com style, classList, parentElement e parentNode, elementos filhos e irmãos, insertBefore, métodos para adição de eventos via JS.
 
