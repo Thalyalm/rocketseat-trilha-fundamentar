@@ -15,3 +15,5 @@ Existem muitas formas de selecionarmos o elemento do HTML para aplicarmos regras
 - [ ] [Pseudo-elements]()
 
 ---
+
+[Voltar](https://github.com/Thalyalm/rocketseat-trilha-fundamentar)

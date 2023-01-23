@@ -11,3 +11,5 @@ A web é um espaço para todos e, por isso, precisamos entender sobre semântica
 - [ ] [HTML que faz sentido, para todos]()
 
 ---
+
+[Voltar](https://github.com/Thalyalm/rocketseat-trilha-fundamentar)
