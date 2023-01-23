@@ -59,3 +59,5 @@
 - [ ] Precedência dos operadores
 
 ---
+
+[Voltar](/modulos/guia-estelar-javascript/readme.md)
