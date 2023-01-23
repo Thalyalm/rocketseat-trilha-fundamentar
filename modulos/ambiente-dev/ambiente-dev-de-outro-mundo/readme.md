@@ -44,4 +44,4 @@
 
 ---
 
-[Voltar](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/ambiente-dev/readme.md)
+[Voltar](/modulos/ambiente-dev/readme.md)

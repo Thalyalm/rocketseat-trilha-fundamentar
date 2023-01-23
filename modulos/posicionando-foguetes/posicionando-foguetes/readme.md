@@ -112,4 +112,4 @@ Podemos usar o Display Flex e Display Grid ao mesmo tempo.
 
 ---
 
-[Voltar](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/posicionando-foguetes/readme.md)
+[Voltar](/modulos/posicionando-foguetes/readme.md)

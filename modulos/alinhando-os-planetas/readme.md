@@ -8,17 +8,17 @@
 
 Com o CSS moderno, nós podemos posicionar, alinhar, ordenar e trabalhar com os elementos de maneira flexível. Esse e outros poderes do Flexbox você vai conhecer agora.
 
-- [ ] [Introdução]()
+- [ ] [Introdução](/modulos/alinhando-os-planetas/introducao/readme.md)
 
-- [ ] [Layouts CSS]()
+- [ ] [Layouts CSS](/modulos/alinhando-os-planetas/layouts-css/readme.md)
 
-- [ ] [Terminologia]()
+- [ ] [Terminologia](/modulos/alinhando-os-planetas/terminologia/readme.md)
 
-- [ ] [Propriedades do Flex Container]()
+- [ ] [Propriedades do Flex Container](/modulos/alinhando-os-planetas/propriedades-do-flex-container/readme.md)
 
-- [ ] [Propriedades dos Itens]()
+- [ ] [Propriedades dos Itens](/modulos/alinhando-os-planetas/propriedades-dos-itens/readme.md)
 
-- [ ] [Desafios]()
+- [ ] [Desafios](/modulos/alinhando-os-planetas/desafios/readme.md)
 
 ---
 

@@ -265,4 +265,4 @@ Estaremos usando o atributo scope, que serve permitir que essa acessibilidade sa
 
 ---
 
-[Voltar](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/guia-estelar-de-html/readme.md)
+[Voltar](/modulos/guia-estelar-de-html/readme.md)

@@ -107,4 +107,4 @@ O Twitter usa o atributo name diferente do Facebook que resolveu usar o property
 
 ---
 
-[Voltar](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/guia-estelar-de-html/readme.md)
+[Voltar](/modulos/guia-estelar-de-html/readme.md)

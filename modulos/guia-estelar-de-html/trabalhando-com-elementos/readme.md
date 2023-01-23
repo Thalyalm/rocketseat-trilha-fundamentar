@@ -159,4 +159,4 @@ Para representar códigos usamos as tags:
 
 ---
 
-[Voltar](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/guia-estelar-de-html/readme.md)
+[Voltar](/modulos/guia-estelar-de-html/readme.md)

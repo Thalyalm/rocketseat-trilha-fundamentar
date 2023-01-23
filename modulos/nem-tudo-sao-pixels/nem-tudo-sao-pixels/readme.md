@@ -174,4 +174,4 @@ Identificadores: podemos ter nomes de cores como red, black, gold
 
 ---
 
-[Voltar](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/nem-tudo-sao-pixels/readme.md)
+[Voltar](/modulos/nem-tudo-sao-pixels/readme.md)

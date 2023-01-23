@@ -99,4 +99,4 @@ Referência: https://fonts.google.com/
 
 ---
 
-[Voltar](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/app-bonito-ate-nos-textos/readme.md)
+[Voltar](/modulos/app-bonito-ate-nos-textos/readme.md)

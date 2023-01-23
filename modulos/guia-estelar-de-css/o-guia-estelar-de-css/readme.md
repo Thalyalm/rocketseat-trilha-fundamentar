@@ -292,4 +292,4 @@ https://caniuse.com
 
 ---
 
-[Voltar](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/guia-estelar-de-css/readme.md)
+[Voltar](/modulos/guia-estelar-de-css/readme.md)

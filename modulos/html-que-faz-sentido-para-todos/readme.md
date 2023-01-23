@@ -8,7 +8,7 @@
 
 A web é um espaço para todos e, por isso, precisamos entender sobre semântica dos elementos e acessibilidade do HTML.
 
-- [ ] [HTML que faz sentido, para todos](/modulos/html-que-faz-sentido-para-todos/html-que-faz-sentido-para-todos)
+- [ ] [HTML que faz sentido, para todos](/modulos/html-que-faz-sentido-para-todos/html-que-faz-sentido-para-todos/readme.md)
 
 ---
 

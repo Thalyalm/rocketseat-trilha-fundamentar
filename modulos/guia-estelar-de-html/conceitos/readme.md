@@ -250,4 +250,4 @@ Você pode criar arquivos, por exemplo: index.html, ou criar pastas.
 
 ---
 
-[Voltar](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/guia-estelar-de-html/readme.md)
+[Voltar](/modulos/guia-estelar-de-html/readme.md)
