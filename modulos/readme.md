@@ -82,87 +82,15 @@ Existem muitas formas de selecionarmos o elemento do HTML para aplicarmos regras
 
 ---
 
-### 14. [Alinhando os planetas]()
+### 14. [Alinhando os planetas](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/alinhando-os-planetas/redme.md)
 
 Com o CSS moderno, nós podemos posicionar, alinhar, ordenar e trabalhar com os elementos de maneira flexível. Esse e outros poderes do Flexbox você vai conhecer agora.
 
 ---
 
-### 15. Pilotando com a DOM
+### 15. [Pilotando com a DOM](https://github.com/Thalyalm/rocketseat-trilha-fundamentar/tree/main/modulos/pilotando-com-a-dom/redme.md)
 
 O módulo explora atributos e funcionalidades da DOM, getElementById, ByClassName e ByTagName, além de querySelector, querySelectorAll, textContent, innerText, innerHTML, Value, alteração com style, classList, parentElement e parentNode, elementos filhos e irmãos, insertBefore, métodos para adição de eventos via JS.
-
-- [ ] Introdução
-
-    - [ ] O que é e para que serve a DOM
-
-    - [ ] Representação visual
-
-- [ ] Selecionando elementos
-
-    - [ ] getElementById
-
-    - [ ] getElementsByClassName
-
-    - [ ] getElementsByTagName
-
-    - [ ] querySelector
-
-    - [ ] querySelectorAll
-
-    - [ ] Qual usar?
-
-- [ ] Manipulando conteúdos
-
-    - [ ] textContent
-
-    - [ ] innerText
-
-    - [ ] innerHTML
-
-    - [ ] Value
-
-    - [ ] Manipulando atributos
-
-- [ ] Manipulando estilos e classes
-
-    - [ ] Alterando estilos com style
-    
-    - [ ] classList
-
-- [ ] Navegando pelos elementos
-
-    - [ ] parentElement e parentNode
-
-    - [ ] Pegando elementos filhos
-
-    - [ ] Buscando irmãos
-
-- [ ] Criando e adicionando elementos na página
-
-    - [ ] Criando e adicionando elementos na página
-
-    - [ ] insertBefore
-
-- [ ] Eventos
-
-    - [ ] Adicionando eventos via HTML
-
-    - [ ] Eventos de teclado
-
-    - [ ] Adicionando eventos via JS
-
-    - [ ] Adicionando eventos via JS (Outro método)
-
-    - [ ] Argumento event
-
-- [ ] Praticando
-
-    - [ ] Desafio modal
-
-    - [ ] Resolução desafio modal
-
-    - [ ] Despedida
 
 ---
 
