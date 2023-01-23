@@ -8,27 +8,27 @@
 
 As aulas deste conjunto abordam tipos de dados, variáveis, funções, manipulação de dados, expressões e aplicabilidade dos recursos.
 
-- [ ] Introdução
+- [ ] [Introdução]()
 
-- [ ] Primeiros Passos
+- [ ] [Primeiros Passos]()
 
-- [ ] Tipos de dados
+- [ ] [Tipos de dados]()
 
-- [ ] Variáveis
+- [ ] [Variáveis]()
 
-- [ ] Praticando e avançando
+- [ ] [Praticando e avançando]()
 
-- [ ] Funções
+- [ ] [Funções]]()
 
-- [ ] Manipulando dados
+- [ ] [Manipulando dados]()
 
-- [ ] Expressões e Operadores
+- [ ] [Expressões e Operadores]()
 
-- [ ] Condicionais e controle de fluxo
+- [ ] [Condicionais e controle de fluxo]()
 
-- [ ] Estruturas de repetição
+- [ ] [Estruturas de repetição]()
 
-- [ ] Consolidando com exercícios
+- [ ] [Consolidando com exercícios]()
 
 ---
 
