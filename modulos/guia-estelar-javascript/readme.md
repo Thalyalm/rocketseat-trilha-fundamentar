@@ -10,7 +10,7 @@ As aulas deste conjunto abordam tipos de dados, variáveis, funções, manipula�
 
 :ballot_box_with_check: [Introdução](/modulos/guia-estelar-javascript/introducao/readme.md)
 
-- [ ] [Primeiros Passos](/modulos/guia-estelar-javascript/primeiros-passos/readme.md)
+:ballot_box_with_check: [Primeiros Passos](/modulos/guia-estelar-javascript/primeiros-passos/readme.md)
 
 - [ ] [Tipos de dados](/modulos/guia-estelar-javascript/tipos-de-dados/readme.md)
 
