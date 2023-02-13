@@ -8,7 +8,7 @@
 
 As aulas deste conjunto abordam tipos de dados, variáveis, funções, manipulação de dados, expressões e aplicabilidade dos recursos.
 
-- [ ] [Introdução](/modulos/guia-estelar-javascript/introducao/readme.md)
+:ballot_box_with_check: [Introdução](/modulos/guia-estelar-javascript/introducao/readme.md)
 
 - [ ] [Primeiros Passos](/modulos/guia-estelar-javascript/primeiros-passos/readme.md)
 
