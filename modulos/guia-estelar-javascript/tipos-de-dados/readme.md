@@ -4,35 +4,35 @@
 
 ---
 
-- [ ] Introdução
+:ballot_box_with_check: Introdução
 
 ---
 
-- [ ] String
+:ballot_box_with_check: String
 
 ---
 
-- [ ] Number
+:ballot_box_with_check: Number
 
 ---
 
-- [ ] Boolean
+:ballot_box_with_check: Boolean
 
 ---
 
-- [ ] Undefined vs null
+:ballot_box_with_check: Undefined vs null
 
 ---
 
-- [ ] Object
+:ballot_box_with_check: Object
 
 ---
 
-- [ ] Array
+:ballot_box_with_check: Array
 
 ---
 
-- [ ] Conclusão
+:ballot_box_with_check: Conclusão
 
 ---
 
