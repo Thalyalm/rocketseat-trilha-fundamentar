@@ -4,19 +4,19 @@
 
 ---
 
-- [ ] Sintaxe
+:ballot_box_with_check: Sintaxe
 
 ---
 
-- [ ] Maneiras de executar o JavaScript
+:ballot_box_with_check: Maneiras de executar o JavaScript
 
 ---
 
-- [ ] Adicionando arquivos JS
+:ballot_box_with_check: Adicionando arquivos JS
 
 ---
 
-- [ ] Comentários
+:ballot_box_with_check: Comentários
 
 ---
 
