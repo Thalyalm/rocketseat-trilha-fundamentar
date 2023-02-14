@@ -14,7 +14,7 @@ As aulas deste conjunto abordam tipos de dados, variáveis, funções, manipula�
 
 :ballot_box_with_check: [Tipos de dados](/modulos/guia-estelar-javascript/tipos-de-dados/readme.md)
 
-- [ ] [Variáveis](/modulos/guia-estelar-javascript/variaveis/readme.md)
+:ballot_box_with_check: [Variáveis](/modulos/guia-estelar-javascript/variaveis/readme.md)
 
 - [ ] [Praticando e avançando](/modulos/guia-estelar-javascript/praticando-e-avancando/readme.md)
 

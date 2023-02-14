@@ -4,23 +4,23 @@
 
 ---
 
-- [ ] Conhecendo as variáveis
+:ballot_box_with_check: Conhecendo as variáveis
 
 ---
 
-- [ ] Tipos dinâmicos
+:ballot_box_with_check: Tipos dinâmicos
 
 ---
 
-- [ ] Scope e var
+:ballot_box_with_check: Scope e var
 
 ---
 
-- [ ] Scope let e const
+:ballot_box_with_check: Scope let e const
 
 ---
 
-- [ ] Nomeando variáveis
+:ballot_box_with_check: Nomeando variáveis
 
 ---
 
